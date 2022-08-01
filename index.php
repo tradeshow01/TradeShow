@@ -11,17 +11,14 @@ include "header.php";
     <div class="swiper-wrapper">
         <div class="swiper-slide justify-content-around align-items-center">
             <div class="ban1-bgimg">
-                <img class="img-fluid banner-bg" src="images/banner/11.png" alt="">
+                <img class="img-fluid banner-bg" src="2.jpg" alt="">
             </div>
-            <div class="banner-header">
+            <div class=" banner-header">
                 <div class="iq-mb-20">
-                    <h2 class="d-flex" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".7">Financial Applications !</h2>
+                    <h2 class="d-flex" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".7"><br><br>Financial Applications !</h2>
                     <h2 class="banner-title d-flex" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".7">Forex-Comex-Index Trading </h2>
                 </div>
-                <small data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".8" class="banner-dec my-5 iq-mt-20">Lorem Ipsum is simply dummy text of the
-                    printing and typesetting industry. Lorem Ipsum has been <br> the industry's standard dummy text
-                    ever since the 1500s, Lorem Ipsum is simply dummy text of the<br>printing and typesetting
-                    industry. Lorem Ipsum has been the industry's standard.</small>
+                <small data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".8" class="banner-dec my-5 iq-mt-20">.</small>
                 <div class="iq-mt-20 d-flex banner-button" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay="1.3">
                     <a href="javascript:void(0)" class="button  iq-mt-10"><span class="button-inner-box">
                             <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
@@ -119,48 +116,52 @@ include "header.php";
                             Get Started</small>
                     </div>
                     <div>
-                        <h2 class="title iq-mb-25">3 Easy Steps to Get Started</h2>
-                        <p>Here is 3 Easy Steps to Busy & Sell Bitcoin. Lorem Ipsum has been the industry's standard
-                            dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                            scrambled it to make a type specimen book. </p>
+                        <h2 class="title iq-mb-25">WHAT WE DO?</h2>
+                        <p>We are software solution company driven by innovation & fully committed toward every business success.
+
+                        </p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-12 iq-mt-20">
                     <div class="iq-features1">
-                        <div class="iq-bg" style="background-image: url('images/feature/01.jpg');"></div>
+                        <div class="iq-bg" style="background-image: url('https://img.freepik.com/free-psd/business-statistics-bar-graph_53876-12055.jpg?w=996&t=st=1659376906~exp=1659377506~hmac=601dd553c5018bdcafc07b2e13c2fd8260120523af24f086a8be3c9718a439d3');"></div>
                         <div class="iq-blog">
                             <div class="step">1</div>
-                            <div class="icon mb-2"><img class="img-fluid" src="images/home/icon/03.png" alt="">
+                            <div class="icon mb-2"><img class="img-fluid" src="https://cdn3d.iconscout.com/3d/premium/thumb/dollar-coin-4521244-3754857.png" alt="">
                             </div>
-                            <h4 class="mt-4 mb-3"><a href="javascript:void(0)">Fill Up Your Form</a></h4>
-                            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                            <h4 class="mt-4 mb-3"><a href="javascript:void(0)">Forex Trading</a></h4>
+                            <p>In Forex market currencies are exchanged for one another .Forex market is largest financial market in world We provide daily recommendations about trading in FOREX.</p>
                             <a href="javascript:void(0)">Read More <i aria-hidden="true" class="ion-ios-arrow-forward"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 iq-mt-20">
                     <div class="iq-features1">
-                        <div class="iq-bg" style="background-image: url('images/feature/01.jpg');"></div>
+                        <div class="iq-bg" style="background-image: url('https://img.freepik.com/free-psd/business-statistics-bar-graph_53876-12055.jpg?w=996&t=st=1659376906~exp=1659377506~hmac=601dd553c5018bdcafc07b2e13c2fd8260120523af24f086a8be3c9718a439d3');"></div>
                         <div class="iq-blog">
                             <div class="step">2</div>
-                            <div class="icon mb-2"><img class="img-fluid" src="images/home/icon/01.png" alt="">
+                            <div class="icon mb-2"><img class="img-fluid" src="https://cdn3d.iconscout.com/3d/premium/thumb/dollar-coin-4521244-3754857.png" alt="">
                             </div>
-                            <h4 class="mt-4 mb-3"><a href="javascript:void(0)">Payment</a></h4>
-                            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p> <a href="javascript:void(0)">Read More <i aria-hidden="true" class="ion-ios-arrow-forward"></i></a>
+                            <h4 class="mt-4 mb-3"><a href="javascript:void(0)">Comex Trading</a></h4>
+                            <p>In this market we deal with various commodities. This includes metals, energy etc. We have our specialization in Gold, Silver and Crude oil.
+
+                            </p> <a href="javascript:void(0)">Read More <i aria-hidden="true" class="ion-ios-arrow-forward"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 iq-mt-20">
                     <div class="iq-features1">
-                        <div class="iq-bg" style="background-image: url('images/feature/01.jpg');"></div>
+                        <div class="iq-bg" style="background-image: url('https://img.freepik.com/free-psd/business-statistics-bar-graph_53876-12055.jpg?w=996&t=st=1659376906~exp=1659377506~hmac=601dd553c5018bdcafc07b2e13c2fd8260120523af24f086a8be3c9718a439d3');"></div>
                         <div class="iq-blog">
                             <div class="step">3</div>
-                            <div class="icon mb-2"><img class="img-fluid" src="images/home/icon/02.png" alt="">
+                            <div class="icon mb-2"><img class="img-fluid" src="https://cdn3d.iconscout.com/3d/premium/thumb/dollar-coin-4521244-3754857.png" alt="">
                             </div>
-                            <h4 class="mt-4 mb-3"><a href="javascript:void(0)">Buy or Sell Coin</a></h4>
-                            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p> <a href="javascript:void(0)">Read More <i aria-hidden="true" class="ion-ios-arrow-forward"></i></a>
+                            <h4 class="mt-4 mb-3"><a href="javascript:void(0)">Index Trading</a></h4>
+                            <p>In this segment of our we have focused on need of customer. Here customer can get services modified according to this profile, risk appetite and capacity.
+
+                            </p> <a href="javascript:void(0)">Read More <i aria-hidden="true" class="ion-ios-arrow-forward"></i></a>
                         </div>
                     </div>
                 </div>
@@ -188,17 +189,16 @@ include "header.php";
                     <h2 class="">Everything <br>
                         <span class="iq-font-yellow">You Need To Know!</span>
                     </h2>
-                    <p class="text-white iq-mt-25">Lorem Ipsum is simply dummy text of the printing and typesetting
-                        industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when
-                        an unknown printer took a galley of type and scrambled it to make a type specimen book. It
-                        has survived not only five centuries, but also the leap into electronic typesetting,
-                        remaining essentially unchanged.</p>
+                    <p class="text-white iq-mt-25">Tradeshoww Services is best at research and having a dedicated workforce adding value to Client’s portfolio. </p>
                     <ul class="listing-hand text-white">
-                        <li class="iq-mt-20">Simply dummy text of the Lorem Ipsum is printing and type setting.</li>
-                        <li class="iq-mt-20">Dummy text of the printing and typesetting industry.</li>
-                        <li class="iq-mt-20">Text of the printing and typesetting industry Lorem Ipsum has been.
+                        <li class="iq-mt-20">Customized support as per the need of client.</li>
+                        <li class="iq-mt-20">Tradeshoww is dedicated towards client satisfaction and client retention.
+                            .</li>
+                        <li class="iq-mt-20">Our aim to build a relationship with our clients and serve them for 365 days.
+
                         </li>
-                        <li class="iq-mt-20">Ipsum has been the industry's standard dummy since the 1500s,</li>
+                        <li class="iq-mt-20">To be an organization with more than 10000 Clients.
+                        </li>
 
                     </ul>
 
@@ -365,7 +365,9 @@ include "header.php";
                     </a>
                 </div>
                 <div class="col-lg-6 col-md-12 chart-img">
-                    <div class="btcwdgt-chart"></div>
+                    <div>
+                        <img src="https://img.freepik.com/premium-photo/stock-market-forex-trading-graph-graphic-concept_73426-203.jpg?w=1380" class="img-fluid" alt="">
+                    </div>
                 </div>
             </div>
         </div>
@@ -659,52 +661,164 @@ include "header.php";
         </div>
     </section>
     <!-- Counter -->
-    <!-- Testimonial -->
-    <div class="  iq-news overview-block-ptb iq-over-black-80 jarallax dark-bg" style="background-image: url('images/bg/bg-15.png'); background-position: center center;background-size: contain;background-repeat: no-repeat; ">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-10 col-md-12 text-center">
-                    <img src="images/speack.png" alt="">
-                    <div class="iq-testimonial text-center">
-                        <div id="testimonial-slider" class="owl-carousel owl-theme owl-loaded" data-autoplay="true" data-loop="true" data-nav="false" data-dots="true" data-items="1" data-items-laptop="1" data-items-tab="1" data-items-mobile="1" data-items-mobile-sm="1" data-margin="30">
-                            <div class="testimonial ">
-                                <p class="description ">
-                                    “Bitcoin has no physical form - it technically exists online as a complete
-                                    digital asset. If you do see it, it is in the form of lines of code in an
-                                    alphanumeric string. But the bottom line is, it is a store of value void of
-                                    manipulation by government.”
-                                </p>
-                                <h5 class="fw-bold ">Rinks Cooper</h5>
-                                <small>CEO, Tradeshoww</small>
+
+    <!-- Main Content -->
+    <div class="main-content">
+        <!-- Pricing -->
+        <section class="overview-block-ptb">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="heading-title">
+                            <h2 class="title  iq-mb-20">Bitcoin Pricing</h2>
+                            <p>Here is 3 Easy Steps to Busy & Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="position-relative">
+                            <div class="pricing ">
+                                <h2 class="mb-2"><sup>$</sup>250<small>/month</small></h2>
+                                <p class="mb-0">For most businesses that want to otpimize web queries</p>
+                                <div class="sale-box">
+                                    <span class="sale-text">FEATURED</span>
+                                </div>
                             </div>
-                            <div class="testimonial ">
-                                <p class="description ">
-                                    “Bitcoin has no physical form - it technically exists online as a complete
-                                    digital asset. If you do see it, it is in the form of lines of code in an
-                                    alphanumeric string. But the bottom line is, it is a store of value void of
-                                    manipulation by government.”
-                                </p>
-                                <h5 class=" fw-bold">JD Scot</h5>
-                                <small>CEO, Tradeshoww</small>
+                            <div class="pricing-btn">
+                                <button type="submit" class="button dark white rounded-pill text-uppercase">Standard</button>
                             </div>
-                            <div class="testimonial ">
-                                <p class="description ">
-                                    “Bitcoin has no physical form - it technically exists online as a complete
-                                    digital asset. If you do see it, it is in the form of lines of code in an
-                                    alphanumeric string. But the bottom line is, it is a store of value void of
-                                    manipulation by government.”
-                                </p>
-                                <h5 class=" fw-bold">Haris Morgan</h5>
-                                <small>CEO, Tradeshoww</small>
+                            <div class="iq-pricing-detail text-center">
+                                <ul class="pricing-content">
+                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>All limited links</li>
+                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Own analytics platform</li>
+                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Chat support</li>
+                                    <li class="mb-5"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Optimize hashtags</li>
+                                </ul>
+                                <a class="button " href="javascript:void(0)">
+                                    <span class="button-inner-box">
+                                        <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                            </svg></span>
+                                        <span class="text-btn">Purchase Now</span>
+                                        <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                            </svg></span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="position-relative">
+                            <div class="pricing ">
+                                <h2 class="mb-2"><sup>$</sup>275<small>/month</small></h2>
+                                <p class="mb-0">For most businesses that want to otpimize web queries</p>
+                                <div class="sale-box">
+                                    <span class="sale-text">FEATURED</span>
+                                </div>
+                            </div>
+                            <div class="pricing-btn">
+                                <button type="submit" class="button dark white rounded-pill text-uppercase">Standard</button>
+                            </div>
+                            <div class="iq-pricing-detail text-center">
+                                <ul class="pricing-content">
+                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>All limited links</li>
+                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Own analytics platform</li>
+                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Chat support</li>
+                                    <li class="mb-5"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Optimize hashtags</li>
+                                </ul>
+                                <a class="button " href="javascript:void(0)">
+                                    <span class="button-inner-box">
+                                        <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                            </svg></span>
+                                        <span class="text-btn">Purchase Now</span>
+                                        <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                            </svg></span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="position-relative">
+                            <div class="pricing active">
+                                <h2 class="mb-2"><sup>$</sup>300<small>/month</small></h2>
+                                <p class="mb-0">For most businesses that want to otpimize web queries</p>
+                                <div class="sale-box">
+                                    <span class="sale-text">FEATURED</span>
+                                </div>
+                            </div>
+                            <div class="pricing-btn">
+                                <button type="submit" class="button orange rounded-pill text-uppercase">premium</button>
+                            </div>
+                            <div class="iq-pricing-detail text-center">
+                                <ul class="pricing-content">
+                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>All limited links</li>
+                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Own analytics platform</li>
+                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Chat support</li>
+                                    <li class="mb-5"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Optimize hashtags</li>
+                                </ul>
+                                <a class="button " href="javascript:void(0)">
+                                    <span class="button-inner-box">
+                                        <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                            </svg></span>
+                                        <span class="text-btn">Purchase Now</span>
+                                        <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                            </svg></span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="position-relative">
+                            <div class="pricing ">
+                                <h2 class="mb-2"><sup>$</sup>375<small>/month</small></h2>
+                                <p class="mb-0">For most businesses that want to otpimize web queries</p>
+                                <div class="sale-box">
+                                    <span class="sale-text">FEATURED</span>
+                                </div>
+                            </div>
+                            <div class="pricing-btn">
+                                <button type="submit" class="button dark white rounded-pill text-uppercase">Standard</button>
+                            </div>
+                            <div class="iq-pricing-detail text-center">
+                                <ul class="pricing-content">
+                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>All limited links</li>
+                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Own analytics platform</li>
+                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Chat support</li>
+                                    <li class="mb-5"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Optimize hashtags</li>
+                                </ul>
+                                <a class="button " href="javascript:void(0)">
+                                    <span class="button-inner-box">
+                                        <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                            </svg></span>
+                                        <span class="text-btn">Purchase Now</span>
+                                        <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                            </svg></span>
+                                    </span>
+                                </a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-    <!-- Testimonial -->
+        </section>
+        <!-- Pricing -->
 
+
+        <!-- Clients -->
+
+        <!-- Clients -->
+
+    </div>
 
     <?php
 

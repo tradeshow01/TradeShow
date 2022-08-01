@@ -12,18 +12,12 @@ include "header.php";
         <div class="row">
             <div class="col-lg-8 offset-lg-2">
                 <div class="heading-title iq-mb-25">
-                    <h2 class="title text-uppercase text-white ">Clients</h2>
+                    <h2 class="title text-uppercase text-white ">Testimonials</h2>
                 </div>
-                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
         </div>
     </div>
-    <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="home-1.html">Home</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Clients</li>
-        </ol>
-    </nav>
+
 </section>
 <!--======= Breadcrumb Inner Page =======-->
 <!-- Main Content -->

@@ -8,7 +8,7 @@
     <!-- loading End -->
     <!-- Header -->
     <header class="transparent">
-        <div class="topbar">
+        <!-- <div class="topbar">
             <div class="container-fuild">
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6">
@@ -42,13 +42,13 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="iq-header">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="logo">
-                            <a href="home-1.html"><img id="logo_img" class="img-fluid" src="images/logo-white.png" alt="logo"></a>
+                            <a href="index.php"><img id="logo_img" class="img-fluid" src="images/logo-white.png" alt="logo"></a>
                         </div>
                         <nav> <a id="resp-menu" class="responsive-menu" href="javascript:void(0)"><i class="fa fa-reorder"></i> Menu</a>
                             <ul class="menu text-end">
@@ -67,10 +67,7 @@
                                     </ul>
                                 </li>
 
-                                <li><a href="javascript:void(0)">Contact</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="contact-2.html">Contact Us 2</a></li>
-                                    </ul>
+                                <li><a href="contact.php">Contact</a>
                                 </li>
 
 
