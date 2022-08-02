@@ -11,7 +11,7 @@ include "header.php";
     <div class="swiper-wrapper">
         <div class="swiper-slide justify-content-around align-items-center">
             <div class="ban1-bgimg">
-                <img class="img-fluid banner-bg" src=" alt="">
+                <img class="img-fluid banner-bg" src="2.jpg" alt="">
             </div>
             <div class=" banner-header">
                 <div class="iq-mb-20">
