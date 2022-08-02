@@ -5,7 +5,7 @@ include "header.php";
     <!-- Header End -->
     <div class="clearfix"></div>
     <!--======= Breadcrumb Inner Page =======-->
-    <section class="iq-bg iq-bg-fixed iq-over-black-70 jarallax iq-breadcrumb text-center text-white" style="background-image: url('images/bg/bg-2.jpg'); background-position: center center;">
+    <section class="iq-bg iq-bg-fixed iq-over-black-70 jarallax iq-breadcrumb text-center text-white" style="background-image: url('https://img.freepik.com/premium-photo/double-exposure-business-network-trading-graph-city_113629-83.jpg?w=740'); background-position: center center;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
