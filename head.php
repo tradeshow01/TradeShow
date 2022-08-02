@@ -18,6 +18,7 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <!-- Typography CSS -->
     <link rel="stylesheet" href="css/typography.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- style CSS -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Responsive CSS -->
