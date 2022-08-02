@@ -53,7 +53,7 @@ include "header.php";
                     <div class="col-sm-12">
                         <div class="heading-title iq-mb-0">
                             <h2 class="title  iq-mb-25"><h2
-                             class="text-white titlewhite">Bitcoin Features</h2></h2>
+                             class="text-white titlewhite">Services Provide</h2></h2>
                             <p>Here is 3 Easy Steps to Busy & Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
                         </div>
                     </div>
@@ -78,29 +78,6 @@ include "header.php";
                           <img src="images/services/icon/03.png" alt="icon1" class="img-fluid">
                           <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Coin Exchange</a></h4>
                           <p class="iq-mb-0">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.</p>
-                       </div>
-                    </div>
-                    <div class="col">
-                       <div class="iq-feature5">
-                          <img src="images/services/icon/04.png" alt="icon1" class="img-fluid">
-                          <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Mobile Apps</a></h4>
-                          <p class="iq-mb-0">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.</p>
-                       </div>
-                    </div>
-                    <div class="col">
-                       <div class="iq-feature5">
-                          <img src="images/services/icon/05.png" alt="icon1" class="img-fluid">
-                          <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">24/7 Trading</a></h4>
-                          <p class="iq-mb-0">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.</p>
-                       </div>
-                    </div>
-                    <div class="col">
-                       <div class="iq-feature5">
-                          <div class="feature7 text-center">
-                             <img src="images/services/icon/06.png" alt="icon1" class="img-fluid">
-                             <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Free Consulting</a></h4>
-                             <p class="iq-mb-0">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.</p>
-                          </div>
                        </div>
                     </div>
                  </div>
