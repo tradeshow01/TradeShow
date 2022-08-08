@@ -17,8 +17,6 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <!-- Typography CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
-
     <link rel="stylesheet" href="css/typography.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- style CSS -->
@@ -33,9 +31,6 @@
     <!-- swiper -->
     <link rel="stylesheet" href="swiper/swiper.css">
     <link rel="stylesheet" href="swiper/swiper.min.css">
-    <script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.esm.js"></script>
-    <script nomodule src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ionic/core/css/ionic.bundle.css" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <!-- gsap -->
     <!-- <script src="js/gsap.js"></script> -->
