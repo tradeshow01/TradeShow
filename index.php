@@ -573,7 +573,6 @@ include "header.php";
                     <h2 class="text-white">Trading <span class="iq-font-yellow">change your </span> life</h2>
                     <ul class="listing-hand iq-mt-30 text-white">
                 </div>
-                </li>
                 <li class="iq-mt-20">Smooth and Continuous Transactions</li>
                 <li class="iq-mt-20">It Determines Profit or Loss</li>
                 <li class="iq-mt-20">Delivers Reliable Information
