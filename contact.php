@@ -26,11 +26,11 @@ include "header.php";
     <section class="contact-2">
         <div class="container">
             <div class="row iq-ptb-60">
-                <div class="col-lg-5">
+                <div class="col-lg-6">
                     <h2 class="iq-mtb-25 contactcolor">Contact Info</h2>
                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235527.4544718161!2d75.72376235588722!3d22.723911730259125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fcad1b410ddb%3A0x96ec4da356240f4!2sIndore%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1659962288391!5m2!1sen!2sin"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
-                <div class="col-lg-7">
+                <div class="col-lg-6">
                     <h2 class="iq-mtb-25 contactcolor">Contact Form</h2>
                     <div id="formmessage contactcolor">Success/Error Message Goes Here</div>
                     <form class="form-horizontal" action="mail.php" id="contactform" method="post" action="https://templates.iqonic.design/coinex/html/php/contact-form.php">
