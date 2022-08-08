@@ -833,7 +833,8 @@ header.menu-sticky .iq-header {
 }
 
 header.menu-sticky .logo a img {
-  height: 30px;
+  height: 50px;
+  margin-top: -8px;
 }
 
 header.menu-sticky .logo {

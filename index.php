@@ -507,12 +507,11 @@ include "header.php";
                 <div class="col-lg-6 col-md-12">
                     <h2 class="text-white">Trading<span class="iq-font-yellow">change your </span> life:</h2>
                     <ul class="listing-hand iq-mt-30 text-white">
-                        <li class="iq-mt-20">Smooth and Continuous Transactions</li>
-                        <li class="iq-mt-20">It Determines Profit or Loss</li>
-                        <li class="iq-mt-20">Delivers Reliable Information
-                        </li>
-                        <li class="iq-mt-20">Provides Customized Support</li>
-                        <li class="iq-mt-20">24x7 Instant Access</li>
+                        <li class="iq-mt-20">First - Smooth and Continuous Transactions</li>
+                        <li class="iq-mt-20">Second - It Determines Profit or Loss</li>
+                        <li class="iq-mt-20">Third - Delivers Reliable Information </li>
+                        <li class="iq-mt-20">Forth - Provides Customized Support</li>
+                        <li class="iq-mt-20">FIFTH - 24x7 Instant Access</li>
                     </ul>
                 </div>
                 <div class="col-lg-6 col-md-12 counter-blog">
