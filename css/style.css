@@ -720,7 +720,8 @@ header .iq-header {
   font-family: 'Roboto', sans-serif;
   color: var(--iq-title-text);
   text-transform: uppercase;
-  font-size: 16px;
+  font-size: 18px;
+  font-weight: 700;
   transition: all 0.2s ease-in-out 0s;
 }
 
