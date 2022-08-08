@@ -260,7 +260,7 @@ include "header.php";
                 <div class="col-lg-4 col-md-12 text-end">
                     <div class="d-flex align-items-center">
                         <div class="iq-feature2 iq-mtb-20">
-                            <h4 class="mb-3"><a href="services-details.html"> Fast Transaction</a></h4>
+                            <h4 class="mb-3"><a href="services-details.html"> It eliminates the middleman</a></h4>
                             <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </p>
                         </div>
                         <div class="ms-3">
