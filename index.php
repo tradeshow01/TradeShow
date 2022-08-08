@@ -500,11 +500,12 @@ include "header.php";
     </section>
     <!-- Team -->
     <!-- Counter -->
+
     <section class="overview-block-ptb iq-bg iq-over-black-80 jarallax iq-we-happy" style="background-image: url('images/bg/bg-5.png'); background-position: center center;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-12">
-                    <h2 class="text-white">Trading <span class="iq-font-yellow">change your </span> life</h2>
+                    <h2 class="text-white">Trading<span class="iq-font-yellow">change your </span> life:</h2>
                     <ul class="listing-hand iq-mt-30 text-white">
                         <li class="iq-mt-20">Smooth and Continuous Transactions</li>
                         <li class="iq-mt-20">It Determines Profit or Loss</li>
@@ -513,12 +514,12 @@ include "header.php";
                         <li class="iq-mt-20">Provides Customized Support</li>
                         <li class="iq-mt-20">24x7 Instant Access</li>
                     </ul>
-                    <div class="col-lg-6 col-md-12 counter-blog">
-                        <div class=" text-white">
-                            <h3 class="title iq-mb-25 text-white">Best Service, Right Time, Right People</h3>
-                            <p>Here is 3 Easy Steps to Busy &amp; Sell Bitcoin. Lorem Ipsum has been the industry's
-                                standard dummy text ever since the 1500s, when an unknown.</p>
-                        </div>
+                </div>
+                <div class="col-lg-6 col-md-12 counter-blog">
+                    <div class=" text-white">
+                        <h3 class="title iq-mb-25 text-white">Best Service, Right Time, Right People</h3>
+                        <p>Here is 3 Easy Steps to Busy &amp; Sell Bitcoin. Lorem Ipsum has been the industry's
+                            standard dummy text ever since the 1500s, when an unknown.</p>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-3 col-6 iq-mt-50">
