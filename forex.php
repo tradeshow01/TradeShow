@@ -31,7 +31,7 @@ include("header.php");
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="heading-title">
-                            <h2 class="title">Services</h2>
+                            <h2 class="title text-light">Services</h2>
                             <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
                         </div>
                     </div>
@@ -64,33 +64,7 @@ include("header.php");
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-6 col-lg-4 iq-mt-30">
-                        <div class="  dark-bg text-center p-4">
-                            <img src="images/services/icon/04.png" alt="icon1" class="img-fluid mb-4">
-                            <div class="fancy-content">
-                                <h4 class="mb-3"><a href="services-details.html">Mobile Apps</a></h4>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry, when an unknown printer took a galley ipsum.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-6 col-lg-4 iq-mt-30">
-                        <div class=" dark-bg text-center p-4">
-                            <img src="images/services/icon/05.png" alt="icon1" class="img-fluid mb-4">
-                            <div class="fancy-content">
-                                <h4 class="mb-3"><a href="services-details.html">24/7 Trading</a></h4>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry, when an unknown printer took a galley ipsum.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-6 col-lg-4 iq-mt-30">
-                        <div class=" dark-bg text-center p-4">
-                            <img src="images/services/icon/06.png" alt="icon1" class="img-fluid mb-4">
-                            <div class="fancy-content">
-                                <h4 class="mb-3"><a href="services-details.html">Free Consulting</a></h4>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry, when an unknown printer took a galley ipsum.</p>
-                            </div>
-                        </div>
-                    </div>
+                
                 </div>
             </div>
         </section>
@@ -118,44 +92,7 @@ include("header.php");
         </section>
         <!-- About Us -->
         <!-- Counter -->
-        <div class="overview-block-ptb6 iq-bg iq-over-black-80 jarallax" style="background-image: url('images/bg/bg-7.jpg'); background-position: center center;">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 text-left">
-                        <div class="counter"> <i class="ion-ios-folder-outline text-white " aria-hidden="true"></i>
-                            <div class="">
-                                <h3 class="timer iq-font-yellow" data-to="1540" data-speed="10000">1540</h3>
-                                <small class="text-white text-uppercase">APP DOWNLOADS</small>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 text-left iq-r4-mt-40">
-                        <div class="counter"> <i class="ion-ios-paper-outline text-white" aria-hidden="true"></i>
-                            <div class="">
-                                <h3 class="timer iq-font-yellow" data-to="2530" data-speed="10000">2530</h3>
-                                <small class="text-white text-uppercase">HAPPY CLIENTS</small>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 iq-r-mt-40 text-left re-mt-50">
-                        <div class="counter"> <i class="ion-ios-person-outline text-white" aria-hidden="true"></i>
-                            <div class="">
-                                <h3 class="timer iq-font-yellow" data-to="8120" data-speed="10000">8120</h3>
-                                <small class="text-white text-uppercase">ACTIVE ACCOUNTS</small>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 iq-r-mt-40 text-left re-mt-50">
-                        <div class="counter"> <i class="ion-ios-star-outline text-white" aria-hidden="true"></i>
-                            <div class="">
-                                <h3 class="timer iq-font-yellow" data-to="1620" data-speed="10000">1620</h3>
-                                <small class="text-white text-uppercase">TOTAL APP RATES</small>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+   
         <!-- Counter -->
         <!-- Bitcoin Growth Schedule -->
         <section class="overview-block-ptb dark-bg">
