@@ -26,7 +26,7 @@ include "header.php";
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h2 class="">A cryptocurrency:<span class="iq-font-yellow">Who we are </span></h2>
+                    <h2 class=""><span class="iq-font-yellow">Who we are</span></h2>
                     <p class="iq-mt-25">We are the financial consultant, and our roots are often traced back to 8 years’ experience where the international interest of our client is being served to our client’s. We are the professionals who suggest and supply financial services to clients based on their financial situation. within the international market, we propose our financial services in the forex and COMEX to them. We invest clients’ money supported the client’s decisions. We are a corporation that helps clients manage their money. Our research board does the bottom analysis and comes up with the best ideas to add on to our client’s fortune. The researchers believe the conventional and thorough study to provide our client with the best and profitable suggestions.</p>
 
                     <p> We specialise in transparency, so we help with clarity to work out , understand, and act regardless of what the situation is and this leads to satisfaction and trust buildup of our clients.</p>
