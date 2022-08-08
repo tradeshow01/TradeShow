@@ -13,11 +13,11 @@
                     <h5 class="small-title text-white widget-title">Services</h5>
                     <div class="d-flex align-items-center text-white flex-wrap">
                         <ul class="iq-pl-0 ">
-                            <li><a href="about-us.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Forex Trading</a></li>
-                            <li><a href="services-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Comex Trading</a></li>
-                            <li><a href="faqs-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Index Trading</a></li>
-                            <li><a href="team-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Team Trading</a></li>
-                            <li><a href="contact-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Crypto Trading</a></li>
+                            <li><a href="about-us.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Forex Trading</a></li>
+                            <li><a href="services-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Comex Trading</a></li>
+                            <li><a href="faqs-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Index Trading</a></li>
+                            <li><a href="team-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Team Trading</a></li>
+                            <li><a href="contact-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Crypto Trading</a></li>
                         </ul>
                     </div>
                 </div>
@@ -25,10 +25,10 @@
                     <h5 class="small-title text-white widget-title">Important Links</h5>
                     <div class="d-flex align-items-center text-white flex-wrap">
                         <ul class="iq-pl-0 ">
-                            <li><a href="about-us.html"><i class="fa fa-caret-right" aria-hidden="true"></i>About Us</a></li>
-                            <li><a href="services-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Testimonial</a></li>
-                            <li><a href="faqs-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Payment</a></li>
-                            <li><a href="team-1.html"><i class="icon-chevron-right"></i>Contact Us</a></li>
+                            <li><a href="about-us.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>About Us</a></li>
+                            <li><a href="services-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Testimonial</a></li>
+                            <li><a href="faqs-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Payment</a></li>
+                            <li><a href="team-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
