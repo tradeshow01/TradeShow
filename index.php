@@ -426,12 +426,9 @@ include "header.php";
                     <img src="images/need-help.png" alt="">
                     <h2 class="iq-font-yellow iq-mt-25">Any Query? Contact Us</h2>
                     <ul class="list-inline iq-mt-60 mb-4">
-                        <li class="list-inline-item iq-font-yellow"><i class="fa fa-phone me-2" aria-hidden="true"></i> 0 123 456 789</li>
-                        <li class="list-inline-item text-white ms-3"><i class="fa fa-envelope-open me-2" aria-hidden="true"></i>support@Tradeshoww.com</li>
+                        <li class="list-inline-item text-white ms-3"><i class="fa fa-envelope-open me-2" aria-hidden="true"></i>ttradeshow@gmail.com
+                        </li>
                     </ul>
-                    <div class="text-white iq-mt-10">Lorem Ipsum has been the industry's standard dummy text ever
-                        since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
-                        type specimen book.</div>
                 </div>
             </div>
         </div>
