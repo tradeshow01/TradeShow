@@ -44,7 +44,7 @@ Footer -->
 
                     </div>
                 </div>
-                <div class="col-lg-5 col-md-6 col-sm-12 text-white iq-contact iq-mtb-90">
+                <div class="col-lg-4 col-md-6 col-sm-12 text-white iq-contact iq-mtb-90">
                     <h5 class="small-title widget-title">Modal</h5>
  <img src="tradinggif.gif" class="img-fluid" />
                 </div>
