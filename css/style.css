@@ -98,7 +98,7 @@ Design and Developed by: iqonicthemes.in
   position: relative;
   left: 50%;
   top: 50%;
-  width: 110px;
+  width: 100%;
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
 }
@@ -5559,3 +5559,9 @@ footer.iq-footer-2 .newsletter-form .input-group .form-control {
 .iq-feature2  h4{
     color: #000 !important;
 }
+
+.overview-block-ptb a{
+  font-size: 26;
+  
+}
+.
