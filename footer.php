@@ -9,12 +9,6 @@ Footer -->
                         <img id="logo_img_2" class="img-fluid" src="images/logo-white.png" alt="# ">
                         <div class="text-white iq-mt-25 ">With Tradeshoww, you can buy, sell, trade, and earn
                             cryptocurrencies and manage your Transaction most efficiently and securely.</div>
-                        <ul class="iq-media-blog iq-mt-30 float-start">
-                            <li><a href="javascript:void(0)" class="rounded"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="javascript:void(0)" class="rounded"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="javascript:void(0)" class="rounded"><i class="fa fa-google"></i></a></li>
-                            <li><a href="javascript:void(0)" class="rounded"><i class="fa fa-github"></i></a></li>
-                        </ul>
                     </div>
                 </div>
               
@@ -22,11 +16,11 @@ Footer -->
                     <h5 class="small-title text-white widget-title">Services</h5>
                     <div class="d-flex align-items-center text-white flex-wrap">
                         <ul class="iq-pl-0 ">
-                            <li><a href="about-us.html"><i class="fa fa-angle-right me-2" aria-hidden="true"></i>Forex Trading</a></li>
-                            <li><a href="services-1.html"><i class="fa fa-angle-right me-2" aria-hidden="true"></i>Comex Trading</a></li>
-                            <li><a href="faqs-1.html"><i class="fa fa-angle-right me-2" aria-hidden="true"></i>Index Trading</a></li>
-                            <li><a href="team-1.html"><i class="fa fa-angle-right me-2" aria-hidden="true"></i>Team Trading</a></li>
-                            <li><a href="contact-1.html"><i class="fa fa-angle-right me-2" aria-hidden="true"></i>Crypto Trading</a></li>
+                            <li><a href="about-us.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Forex Trading</a></li>
+                            <li><a href="services-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Comex Trading</a></li>
+                            <li><a href="faqs-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Index Trading</a></li>
+                            <li><a href="team-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Team Trading</a></li>
+                            <li><a href="contact-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Crypto Trading</a></li>
                         </ul>
 
                     </div>
@@ -36,10 +30,10 @@ Footer -->
                     <h5 class="small-title text-white widget-title">Important Links</h5>
                     <div class="d-flex align-items-center text-white flex-wrap">
                         <ul class="iq-pl-0 ">
-                            <li><a href="about-us.html"><i class="fa fa-angle-right me-2" aria-hidden="true"></i>About Us</a></li>
-                            <li><a href="services-1.html"><i class="fa fa-angle-right me-2" aria-hidden="true"></i>Testimonial</a></li>
-                            <li><a href="faqs-1.html"><i class="fa fa-angle-right me-2" aria-hidden="true"></i>Payment</a></li>
-                            <li><a href="team-1.html"><i class="fa fa-angle-right me-2" aria-hidden="true"></i>Contact Us</a></li>
+                            <li><a href="about-us.html"><i class="fa fa-caret-right" aria-hidden="true"></i>About Us</a></li>
+                            <li><a href="services-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Testimonial</a></li>
+                            <li><a href="faqs-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Payment</a></li>
+                            <li><a href="team-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Contact Us</a></li>
                         </ul>
 
                     </div>
