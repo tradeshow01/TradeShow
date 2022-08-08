@@ -477,7 +477,6 @@ include "header.php";
                     <div class="col-sm-12">
                         <div class="heading-title">
                             <h2 class="title  iq-mb-20">Bitcoin Pricing</h2>
-                            <p>Here is 3 Easy Steps to Busy & Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
                         </div>
                     </div>
                 </div>
