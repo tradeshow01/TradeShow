@@ -5572,3 +5572,7 @@ footer.iq-footer-2 .newsletter-form .input-group .form-control {
 .contactcolor{
     color: #000 !important;
 }
+iframe{
+  width:100%!important;
+  height: 70%!important;
+}
