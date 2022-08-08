@@ -7,88 +7,63 @@ include "header.php";
 <!-- Banner -->
 
 
-<div class="swiper mySwiper">
-    <div class="swiper-wrapper">
-        <div class="swiper-slide justify-content-around align-items-center">
-            <div class="ban1-bgimg">
-                <img class="img-fluid banner-bg" src="https://img.freepik.com/premium-photo/stock-market-forex-trading-graph-graphic-concept_73426-183.jpg?w=900" alt="">
-            </div>
-            <div class=" banner-header">
-                <div class="iq-mb-20">
-                    <h2 class="d-flex" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".7"><br><br>Financial Applications !</h2>
-                    <h2 class="banner-title d-flex" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".7">Forex-Comex-Index Trading </h2>
+<!-- Banner -->
+<div id="rev_slider_4_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="coinexhd" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+    <!-- START REVOLUTION SLIDER 5.4.6.3 fullwidth mode -->
+    <div id="rev_slider_4_1" class="rev_slider fullwidthabanner tp-overflow-hidden" style="display:none;" data-version="5.4.6.3">
+        <ul>
+            <!-- SLIDE  -->
+            <li data-index="rs-12" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="500" data-thumb="revslider/assets/100x50_da8db-28.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <!-- MAIN IMAGE -->
+                <img src="revslider/assets/da8db-28.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                <!-- LAYERS -->
+                <!-- LAYER NR. 1 -->
+                <div class="tp-caption   tp-resizeme" id="slide-12-layer-1" data-x="center" data-hoffset="" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":1500,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;">
+                    <div class="rs-looped rs-rotate" data-easing="" data-startdeg="90" data-enddeg="-90" data-speed="100" data-origin="50% 50%"><img src="revslider/assets/e1e0d-circle.png" alt="" data-ww="435px" data-hh="434px" data-no-retina> </div>
                 </div>
-                <small data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".8" class="banner-dec my-5 iq-mt-20">.</small>
-                <div class="iq-mt-20 d-flex banner-button" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay="1.3">
-                    <a href="javascript:void(0)" class="button  iq-mt-10"><span class="button-inner-box">
-                            <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
-                                    </path>
-                                </svg></span>
-                            <span class="text-btn">View More</span>
-                            <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
-                                    </path>
-                                </svg></span>
-                        </span>
-                    </a>
+                <!-- LAYER NR. 2 -->
+                <div class="tp-caption   tp-resizeme" id="slide-12-layer-5" data-x="right" data-hoffset="100" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":2500,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;"><img src="revslider/assets/c591f-right.png" alt="" data-ww="350px" data-hh="492px" data-no-retina> </div>
+                <!-- LAYER NR. 3 -->
+                <div class="tp-caption   tp-resizeme" id="slide-12-layer-3" data-x="100" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":2500,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7;"><img src="revslider/assets/c2657-left.png" alt="" data-ww="350px" data-hh="491px" data-no-retina> </div>
+                <!-- LAYER NR. 4 -->
+                <div class="tp-caption   tp-resizeme" id="slide-12-layer-2" data-x="center" data-hoffset="" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8;"><img src="revslider/assets/80f67-coin.png" alt="" data-ww="319px" data-hh="320px" data-no-retina> </div>
+            </li>
+            <!-- SLIDE  -->
+            <li data-index="rs-14" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off" data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default" data-thumb="revslider/assets/100x50_913ee-chart.jpg" data-rotate="0,0,0,0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <!-- MAIN IMAGE -->
+                <img src="revslider/assets/913ee-chart.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                <!-- LAYERS -->
+                <!-- LAYER NR. 5 -->
+                <div class="tp-caption Gym-Subline   tp-resizeme" id="slide-14-layer-1" data-x="30" data-y="center" data-voffset="-100" data-width="['964']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; min-width: 964px; max-width: 964px; white-space: nowrap; font-size: 65px; line-height: 80px; font-weight: 300; color: #ffffff; letter-spacing: 0px; font-family: 'Roboto', sans-serif;  text-transform:uppercase;">the internationally
+                    <br><span class="iq-font-yellow ">'cyber'</span>money.
                 </div>
-            </div>
-            <div class="banner-img-1">
-                <img data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1.2" data-iq-delay="1.5" src="https://cdn3d.iconscout.com/3d/premium/thumb/giving-dollar-coin-4830854-4018463.png" alt="image">
-            </div>
-        </div>
-        <div class="swiper-slide">
-            <div class="ban1-bgimg">
-                <img class="img-fluid banner-bg" src="images/banner/11.png" alt="">
-            </div>
-            <div class="banner-header-2">
-                <h2 data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".6" class="future">what are future</h2>
-                <h2 data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".9" class="my-4">Buy, Sell, Exchange Bitcoins with Tradeshoww ! </h2>
-                <div class="d-flex justify-content-center banner-img-3" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1.5" data-iq-delay="1.2">
-                    <img class="img-fluid  me-4" src="images/banner/05.png" alt="">
-                    <img class="img-fluid  me-4" src="images/banner/06.png" alt="">
-                    <img class="img-fluid  me-4" src="images/banner/05.png" alt="">
-                    <img class="img-fluid " src="images/banner/05.png" alt="">
+                <!-- LAYER NR. 6 -->
+                <div class="tp-caption   tp-resizeme" id="slide-14-layer-2" data-x="30" data-y="center" data-voffset="30" data-width="['771']" data-height="['73']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":2000,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; min-width: 771px; max-width: 771px; max-width: 73px; max-width: 73px; white-space: nowrap; font-size: 14px; line-height: 24px; font-weight: 400; color: #ffffff; letter-spacing: 0px; font-family: 'Open Sans', sans-serif;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                    <br> industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of the printing
+                    <br>and typesetting industry. Lorem Ipsum has been the industry's standard.
                 </div>
-            </div>
-        </div>
-        <div class="swiper-slide d-flex justify-content-around align-items-center">
-            <div class="ban1-bgimg">
-                <img class="img-fluid banner-bg" src="images/banner/11.png" alt="">
-            </div>
-            <div class="banner-header-3">
-                <div class="banner-title-3 iq-mb-20">
-                    <h2 data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".7" class="d-flex">Be Ready to fly with</h2>
-                    <h2 data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".7" class="banner-title d-flex">Tradeshoww.</h2>
-                </div>
-                <small class=" banner-dec" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay="1">Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been <br> the industry's standard dummy text ever since
-                    the 1500s, Lorem Ipsum is simply dummy text of the<br>printing and typesetting industry. Lorem
-                    Ipsum has been the industry's standard.</small>
-                <div class="d-flex iq-mt-20 banner-button" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1.2" data-iq-delay="2">
-                    <a href="javascript:void(0)" class="button">
-                        <span class="button-inner-box">
-                            <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
-                                    </path>
-                                </svg></span>
-                            <span class="text-btn">View More</span>
-                            <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
-                                    </path>
-                                </svg></span>
-                        </span>
-                    </a>
-                </div>
-            </div>
-            <div class="banner-img-2">
-                <img data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="2" data-iq-delay="1" src="images/banner/04.png" alt="image">
-            </div>
-        </div>
+                <!-- LAYER NR. 7 -->
+                <div class="tp-caption button rev-btn " id="slide-14-layer-6" data-x="30" data-y="center" data-voffset="113" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":2760,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":""}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[4,4,4,4]" data-paddingright="[20,20,20,20]" data-paddingbottom="[4,4,4,4]" data-paddingleft="[20,20,20,20]">About Us </div>
+            </li>
+            <!-- SLIDE  -->
+            <li data-index="rs-16" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="500" data-thumb="revslider/assets/100x50_a24d6-29.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <!-- MAIN IMAGE -->
+                <img src="revslider/assets/a24d6-29.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                <!-- LAYERS -->
+                <!-- LAYER NR. 8 -->
+                <div class="tp-caption   tp-resizeme" id="slide-16-layer-10" data-x="30" data-y="center" data-voffset="-145" data-width="['448']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":2670,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; min-width: 448px; max-width: 448px; white-space: nowrap; font-size: 48px; line-height: 75px; font-weight: 400; color: #ffffff; letter-spacing: 0px; font-family: 'Roboto', sans-serif;  text-transform:uppercase;">Bitcoin digital </div>
+                <!-- LAYER NR. 9 -->
+                <div class="tp-caption   tp-resizeme" id="slide-16-layer-19" data-x="30" data-y="center" data-voffset="-78" data-width="['639']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":2670,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; min-width: 639px; max-width: 639px; white-space: nowrap; font-size: 58px; line-height: 68px; font-weight: 700; color: #ffffff; letter-spacing: 0px; font-family: 'Roboto', sans-serif;  text-transform:uppercase;"><span class="iq-font-yellow ">cryptocurrency.</span> </div>
+                <!-- LAYER NR. 10 -->
+                <div class="tp-caption   tp-resizeme" id="slide-16-layer-16" data-x="30" data-y="center" data-voffset="-22" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":2670,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 26px; line-height: 50px; font-weight: 400; color: #ffffff; letter-spacing: 0px; font-family: 'Open Sans', sans-serif;">Send and Get Money Anywhere in the World! </div>
+                <!-- LAYER NR. 11 -->
+                <div class="tp-caption   tp-resizeme" id="slide-16-layer-12" data-x="right" data-hoffset="-95" data-y="bottom" data-voffset="-10" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1200,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8;"><img src="revslider/assets/a47fe-30.png" alt="" data-ww="579px" data-hh="517px" data-no-retina> </div>
+                <!-- LAYER NR. 12 -->
+                <div class="tp-caption   tp-resizeme" id="slide-16-layer-14" data-x="" data-y="bottom" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":1700,"speed":1200,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9;"><img src="revslider/assets/a579e-31.png" alt="" data-ww="572px" data-hh="334px" data-no-retina> </div>
+            </li>
+        </ul>
+        <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
     </div>
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
 </div>
 <!-- Banner End -->
 
@@ -472,150 +447,150 @@ include "header.php";
     </section>
     <!-- Contact Us -->
     <section class="overview-block-ptb">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="heading-title">
-                            <h2 class="title  iq-mb-20">Bitcoin Pricing</h2>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="heading-title">
+                        <h2 class="title  iq-mb-20">Bitcoin Pricing</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="position-relative">
+                        <div class="pricing ">
+                            <h2 class="mb-2"><sup>$</sup>250<small>/month</small></h2>
+                            <p class="mb-0">For most businesses that want to otpimize web queries</p>
+                            <div class="sale-box">
+                                <span class="sale-text">FEATURED</span>
+                            </div>
+                        </div>
+                        <div class="pricing-btn">
+                            <button type="submit" class="button dark white rounded-pill text-uppercase">Standard</button>
+                        </div>
+                        <div class="iq-pricing-detail text-center">
+                            <ul class="pricing-content">
+                                <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>All limited links</li>
+                                <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Own analytics platform</li>
+                                <li class="mb-3"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Chat support</li>
+                                <li class="mb-5"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Optimize hashtags</li>
+                            </ul>
+                            <a class="button " href="javascript:void(0)">
+                                <span class="button-inner-box">
+                                    <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                            <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                        </svg></span>
+                                    <span class="text-btn">Purchase Now</span>
+                                    <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                            <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                        </svg></span>
+                                </span>
+                            </a>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="position-relative">
-                            <div class="pricing ">
-                                <h2 class="mb-2"><sup>$</sup>250<small>/month</small></h2>
-                                <p class="mb-0">For most businesses that want to otpimize web queries</p>
-                                <div class="sale-box">
-                                    <span class="sale-text">FEATURED</span>
-                                </div>
-                            </div>
-                            <div class="pricing-btn">
-                                <button type="submit" class="button dark white rounded-pill text-uppercase">Standard</button>
-                            </div>
-                            <div class="iq-pricing-detail text-center">
-                                <ul class="pricing-content">
-                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>All limited links</li>
-                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Own analytics platform</li>
-                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Chat support</li>
-                                    <li class="mb-5"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Optimize hashtags</li>
-                                </ul>
-                                <a class="button " href="javascript:void(0)">
-                                    <span class="button-inner-box">
-                                        <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                            </svg></span>
-                                        <span class="text-btn">Purchase Now</span>
-                                        <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                            </svg></span>
-                                    </span>
-                                </a>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="position-relative">
+                        <div class="pricing ">
+                            <h2 class="mb-2"><sup>$</sup>275<small>/month</small></h2>
+                            <p class="mb-0">For most businesses that want to otpimize web queries</p>
+                            <div class="sale-box">
+                                <span class="sale-text">FEATURED</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="position-relative">
-                            <div class="pricing ">
-                                <h2 class="mb-2"><sup>$</sup>275<small>/month</small></h2>
-                                <p class="mb-0">For most businesses that want to otpimize web queries</p>
-                                <div class="sale-box">
-                                    <span class="sale-text">FEATURED</span>
-                                </div>
-                            </div>
-                            <div class="pricing-btn">
-                                <button type="submit" class="button dark white rounded-pill text-uppercase">Standard</button>
-                            </div>
-                            <div class="iq-pricing-detail text-center">
-                                <ul class="pricing-content">
-                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>All limited links</li>
-                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Own analytics platform</li>
-                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Chat support</li>
-                                    <li class="mb-5"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Optimize hashtags</li>
-                                </ul>
-                                <a class="button " href="javascript:void(0)">
-                                    <span class="button-inner-box">
-                                        <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                            </svg></span>
-                                        <span class="text-btn">Purchase Now</span>
-                                        <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                            </svg></span>
-                                    </span>
-                                </a>
-                            </div>
+                        <div class="pricing-btn">
+                            <button type="submit" class="button dark white rounded-pill text-uppercase">Standard</button>
+                        </div>
+                        <div class="iq-pricing-detail text-center">
+                            <ul class="pricing-content">
+                                <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>All limited links</li>
+                                <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Own analytics platform</li>
+                                <li class="mb-3"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Chat support</li>
+                                <li class="mb-5"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Optimize hashtags</li>
+                            </ul>
+                            <a class="button " href="javascript:void(0)">
+                                <span class="button-inner-box">
+                                    <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                            <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                        </svg></span>
+                                    <span class="text-btn">Purchase Now</span>
+                                    <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                            <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                        </svg></span>
+                                </span>
+                            </a>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="position-relative">
-                            <div class="pricing active">
-                                <h2 class="mb-2"><sup>$</sup>300<small>/month</small></h2>
-                                <p class="mb-0">For most businesses that want to otpimize web queries</p>
-                                <div class="sale-box">
-                                    <span class="sale-text">FEATURED</span>
-                                </div>
-                            </div>
-                            <div class="pricing-btn">
-                                <button type="submit" class="button orange rounded-pill text-uppercase">premium</button>
-                            </div>
-                            <div class="iq-pricing-detail text-center">
-                                <ul class="pricing-content">
-                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>All limited links</li>
-                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Own analytics platform</li>
-                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Chat support</li>
-                                    <li class="mb-5"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Optimize hashtags</li>
-                                </ul>
-                                <a class="button " href="javascript:void(0)">
-                                    <span class="button-inner-box">
-                                        <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                            </svg></span>
-                                        <span class="text-btn">Purchase Now</span>
-                                        <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                            </svg></span>
-                                    </span>
-                                </a>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="position-relative">
+                        <div class="pricing active">
+                            <h2 class="mb-2"><sup>$</sup>300<small>/month</small></h2>
+                            <p class="mb-0">For most businesses that want to otpimize web queries</p>
+                            <div class="sale-box">
+                                <span class="sale-text">FEATURED</span>
                             </div>
                         </div>
+                        <div class="pricing-btn">
+                            <button type="submit" class="button orange rounded-pill text-uppercase">premium</button>
+                        </div>
+                        <div class="iq-pricing-detail text-center">
+                            <ul class="pricing-content">
+                                <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>All limited links</li>
+                                <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Own analytics platform</li>
+                                <li class="mb-3"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Chat support</li>
+                                <li class="mb-5"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Optimize hashtags</li>
+                            </ul>
+                            <a class="button " href="javascript:void(0)">
+                                <span class="button-inner-box">
+                                    <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                            <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                        </svg></span>
+                                    <span class="text-btn">Purchase Now</span>
+                                    <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                            <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                        </svg></span>
+                                </span>
+                            </a>
+                        </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="position-relative">
-                            <div class="pricing ">
-                                <h2 class="mb-2"><sup>$</sup>375<small>/month</small></h2>
-                                <p class="mb-0">For most businesses that want to otpimize web queries</p>
-                                <div class="sale-box">
-                                    <span class="sale-text">FEATURED</span>
-                                </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="position-relative">
+                        <div class="pricing ">
+                            <h2 class="mb-2"><sup>$</sup>375<small>/month</small></h2>
+                            <p class="mb-0">For most businesses that want to otpimize web queries</p>
+                            <div class="sale-box">
+                                <span class="sale-text">FEATURED</span>
                             </div>
-                            <div class="pricing-btn">
-                                <button type="submit" class="button dark white rounded-pill text-uppercase">Standard</button>
-                            </div>
-                            <div class="iq-pricing-detail text-center">
-                                <ul class="pricing-content">
-                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>All limited links</li>
-                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Own analytics platform</li>
-                                    <li class="mb-3"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Chat support</li>
-                                    <li class="mb-5"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Optimize hashtags</li>
-                                </ul>
-                                <a class="button " href="javascript:void(0)">
-                                    <span class="button-inner-box">
-                                        <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                            </svg></span>
-                                        <span class="text-btn">Purchase Now</span>
-                                        <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                            </svg></span>
-                                    </span>
-                                </a>
-                            </div>
+                        </div>
+                        <div class="pricing-btn">
+                            <button type="submit" class="button dark white rounded-pill text-uppercase">Standard</button>
+                        </div>
+                        <div class="iq-pricing-detail text-center">
+                            <ul class="pricing-content">
+                                <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>All limited links</li>
+                                <li class="mb-3"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Own analytics platform</li>
+                                <li class="mb-3"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Chat support</li>
+                                <li class="mb-5"><i aria-hidden="true" class="me-3 ion-close-round iq-font-yellow"></i>Optimize hashtags</li>
+                            </ul>
+                            <a class="button " href="javascript:void(0)">
+                                <span class="button-inner-box">
+                                    <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                            <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                        </svg></span>
+                                    <span class="text-btn">Purchase Now</span>
+                                    <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                            <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                        </svg></span>
+                                </span>
+                            </a>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
     <!-- Team -->
     <!-- Counter -->
     <section class="overview-block-ptb iq-bg iq-over-black-80 jarallax iq-we-happy" style="background-image: url('images/bg/bg-5.png'); background-position: center center;">
@@ -681,7 +656,7 @@ include "header.php";
     <!-- Main Content -->
     <div class="main-content">
         <!-- Pricing -->
-       
+
         <!-- Pricing -->
 
 
