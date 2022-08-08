@@ -70,6 +70,37 @@ include("header.php");
     </section>
     <!-- Services -->
     <!-- About Us -->
+    <section class="overview-block-ptb iq-feature4 ">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <img class="img-fluid" src="images/about-us/calculator-bitcoin.png" alt="icon1">
+                </div>
+                <div class="col-sm-6">
+                    <h2 class="">Everything<br>
+                        <span class="iq-font-yellow">You Need To Know!</span>
+                    </h2>
+                    <p class="iq-mt-25">Tradeshaw provides recommendations in the biggest online trading market, Forex market. We have been serving over 1200+ clients from all over the world with our competent and highly qualified research team who are dedicated to serve our clients 24*5.
+
+                        We provide signals in all the major and minor currency pairs thus making sure that we can cater to all our clients. These signals are personalized and come directly from the desk of our researchers after carefully examining the market, So we can provide the best analysis.
+
+                        We prioritize our trader’s needs with our every trade and thus keep a balanced and ideal risk reward ratio with all our trades thereby providing best Forex signals. The signals are carefully analyzed to cater clients living in different time zones and operating in different trading sessions by technical, fundamental and sentimental analysis.
+
+                        We have different packages which are designed to suit traders from every wa</p>
+                    <a class="button iq-mt-30" href="javascript:void(0)"><span class="button-inner-box">
+                            <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                </svg></span>
+                            <span class="text-btn">Read More</span>
+                            <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                </svg></span>
+                        </span></a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- About Us -->
     <!-- Counter -->
 
     <!-- Main Content End -->
