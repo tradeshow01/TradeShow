@@ -580,69 +580,68 @@ include "header.php";
                 <li class="iq-mt-20">Provides Customized Support</li>
                 <li class="iq-mt-20">24x7 Instant Access</li>
                 </ul>
-            </div>
-            <div class="col-lg-6 col-md-12 counter-blog">
-                <div class=" text-white">
-                    <h3 class="title iq-mb-25 text-white">Best Service, Right Time, Right People</h3>
-                    <p>Here is 3 Easy Steps to Busy &amp; Sell Bitcoin. Lorem Ipsum has been the industry's
-                        standard dummy text ever since the 1500s, when an unknown.</p>
-                </div>
-                <div class="row">
-                    <div class="col-lg-6 col-md-3 col-6 iq-mt-50">
-                        <div class="counter"><i class="ion-ios-folder-outline iq-font-yellow" aria-hidden="true"></i>
-                            <div class="right text-start">
-                                <h3 class="timer text-white" data-to="1540" data-speed="10000">1540</h3>
-                                <small class="text-white">PROJECT</small>
+                <div class="col-lg-6 col-md-12 counter-blog">
+                    <div class=" text-white">
+                        <h3 class="title iq-mb-25 text-white">Best Service, Right Time, Right People</h3>
+                        <p>Here is 3 Easy Steps to Busy &amp; Sell Bitcoin. Lorem Ipsum has been the industry's
+                            standard dummy text ever since the 1500s, when an unknown.</p>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-3 col-6 iq-mt-50">
+                            <div class="counter"><i class="ion-ios-folder-outline iq-font-yellow" aria-hidden="true"></i>
+                                <div class="right text-start">
+                                    <h3 class="timer text-white" data-to="1540" data-speed="10000">1540</h3>
+                                    <small class="text-white">PROJECT</small>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-6 col-md-3 col-6 iq-mt-50">
-                        <div class="counter"> <i class="ion-ios-paper-outline iq-font-yellow" aria-hidden="true"></i>
-                            <div class="right text-start">
-                                <h3 class="timer text-white" data-to="2530" data-speed="10000">2530</h3>
-                                <small class="text-white">AWARDS</small>
+                        <div class="col-lg-6 col-md-3 col-6 iq-mt-50">
+                            <div class="counter"> <i class="ion-ios-paper-outline iq-font-yellow" aria-hidden="true"></i>
+                                <div class="right text-start">
+                                    <h3 class="timer text-white" data-to="2530" data-speed="10000">2530</h3>
+                                    <small class="text-white">AWARDS</small>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-6 col-md-3 col-6 iq-mt-50">
-                        <div class="counter"> <i class="ion-ios-person-outline iq-font-yellow" aria-hidden="true"></i>
-                            <div class="right text-start">
-                                <h3 class="timer text-white" data-to="8120" data-speed="10000">8120</h3>
-                                <small class="text-white">CLIENTS</small>
+                        <div class="col-lg-6 col-md-3 col-6 iq-mt-50">
+                            <div class="counter"> <i class="ion-ios-person-outline iq-font-yellow" aria-hidden="true"></i>
+                                <div class="right text-start">
+                                    <h3 class="timer text-white" data-to="8120" data-speed="10000">8120</h3>
+                                    <small class="text-white">CLIENTS</small>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-6 col-md-3 col-6 iq-mt-50">
-                        <div class="counter"> <i class="ion-ios-star-outline iq-font-yellow" aria-hidden="true"></i>
-                            <div class="right text-start">
-                                <h3 class="timer text-white" data-to="1620" data-speed="10000">1620</h3>
-                                <small class="text-white">RATES</small>
+                        <div class="col-lg-6 col-md-3 col-6 iq-mt-50">
+                            <div class="counter"> <i class="ion-ios-star-outline iq-font-yellow" aria-hidden="true"></i>
+                                <div class="right text-start">
+                                    <h3 class="timer text-white" data-to="1620" data-speed="10000">1620</h3>
+                                    <small class="text-white">RATES</small>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-</div>
-</section>
-<!-- Counter -->
+    </section>
+    <!-- Counter -->
 
-<!-- Main Content -->
-<div class="main-content">
-    <!-- Pricing -->
+    <!-- Main Content -->
+    <div class="main-content">
+        <!-- Pricing -->
 
-    <!-- Pricing -->
-
-
-    <!-- Clients -->
-
-    <!-- Clients -->
-
-</div>
-
-<?php
+        <!-- Pricing -->
 
 
-include 'footer.php'
+        <!-- Clients -->
 
-?>
+        <!-- Clients -->
+
+    </div>
+
+    <?php
+
+
+    include 'footer.php'
+
+    ?>
