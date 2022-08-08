@@ -33,7 +33,7 @@ include "header.php";
 
                     <p> We do understand your insecurities and act consistent with your needs. To our mind being perceiving is that the key that will bring success in trading and market, when to form good decisions is an important skill, and our research board is very proficient. We believe transparency, accountability, and fairness. Our client and their money is our first priority and hence we propose the best to our client.</p>
 
-                    <p> TradeVinder mainly focuses on consistency in earning more and more profits. We give our greatest to satisfy our customers by giving accurate calls and helping in risk management and are available all the time for our customers. We are sort of a translator who translates the technical language of the market for our clients.</p>
+                    <p><b>TradeShoww</b> mainly focuses on consistency in earning more and more profits. We give our greatest to satisfy our customers by giving accurate calls and helping in risk management and are available all the time for our customers. We are sort of a translator who translates the technical language of the market for our clients.</p>
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <img class="img-fluid mx-auto d-block iq-mt-10" src="https://img.freepik.com/free-vector/buy-sell-trend-forex-trading-background_1017-31712.jpg?w=740&t=st=1659958528~exp=1659959128~hmac=2026d2be3075154e15c95b4cab7e03d5b74d83539936068fb88d248ea804f56b" alt="icon1">
