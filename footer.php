@@ -1,4 +1,4 @@
-<!--=================================
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><!--=================================
 Footer -->
 <footer class="iq-footer dark-bg iq-footer-2">
     <div class="footer-top iq-bg-fixed ">
