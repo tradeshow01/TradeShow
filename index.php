@@ -392,7 +392,7 @@ include "header.php";
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 iq-bg">
-                    <img src="images/about-us/about-img2.png" class="img-fluid" alt="#">
+                    <img src="https://img.freepik.com/free-vector/business-share-market-growth-green-arrow-background_1017-37130.jpg?w=1060&t=st=1659980717~exp=1659981317~hmac=36182d6e49a54bb3e82d8c462f34eed13cfb93595ee9e66d26ba68c5072b328b" class="img-fluid" alt="#">
                     <div class="iq-coin scrollme">
                         <span class="coin-01 animateme" data-when="span" data-from="0.9" data-to="0.1" data-translatex="0" data-translatey="-200" data-rotatez="180">
                             <img src="images/coin/01.png" class="img-fluid" alt="#">
