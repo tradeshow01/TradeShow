@@ -9,7 +9,7 @@ include("header.php");
         <div class="row">
             <div class="col-lg-8 offset-lg-2">
                 <div class="heading-title iq-mb-25">
-                    <h2 class="title text-uppercase text-black ">Services</h2>
+                    <h2 class="title text-uppercase cc ">Services</h2>
                 </div>
             </div>
         </div>
@@ -126,99 +126,33 @@ include("header.php");
     <section class="iq-faqs overview-block-ptb ">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 col-md-12">
-                    <div class="heading-left">
-                        <h3 class="title ">Faq's</h3>
-                        <p><b>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</b></p>
-                        <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-12">
-                    <div id="accordion" role="tablist">
-                        <div class="card">
-                            <div class="card-header" role="tab" id="headingOne">
-                                <div>
-                                    <a data-bs-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        Lorem Ipsum is simply dummy text of the printing?
-                                    </a>
-                                </div>
-                            </div>
-                            <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
-                                <div class="card-body">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" role="tab" id="headingTwo">
-                                <div>
-                                    <a class="collapsed" data-bs-toggle="collapse" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Ipsum is simply dummy text of the printing?
-                                    </a>
-                                </div>
-                            </div>
-                            <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
-                                <div class="card-body">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" role="tab" id="headingThree">
-                                <div>
-                                    <a class="collapsed" data-bs-toggle="collapse" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Simply dummy text of the printing and typesetting industry?
-                                    </a>
-                                </div>
-                            </div>
-                            <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
-                                <div class="card-body">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" role="tab" id="headingFour">
-                                <div>
-                                    <a class="collapsed" data-bs-toggle="collapse" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Ipsum is simply dummy text of the printing?
-                                    </a>
-                                </div>
-                            </div>
-                            <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
-                                <div class="card-body">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div id="position-size-calculator-685828">
+                    <script type="text/javascript" src="https://www.cashbackforex.com/Content/remote/remote-widgets.js"></script>
+                    <script type="text/javascript">
+                        RemoteCalc({
+                            "Url": "https://www.cashbackforex.com",
+                            "TopPaneStyle": "YmFja2dyb3VuZDogbGluZWFyLWdyYWRpZW50KCMxYmExYzQgMjAlLCAjNDliOWFkIDQ1JSk7IGJvcmRlcjogc29saWQgMHB4OyBib3JkZXItYm90dG9tOiBub25lOyBjb2xvcjogd2hpdGU7",
+                            "BottomPaneStyle": "YmFja2dyb3VuZDogd2hpdGU7IGJvcmRlcjogc29saWQgMXB4ICM3YTdhN2E7IGJvcmRlci10b3A6IG5vbmU7IGNvbG9yOiBibGFjazs=",
+                            "ButtonStyle": "YmFja2dyb3VuZDogIzFiYTFjNDsgY29sb3I6IHdoaXRlOyBib3JkZXItcmFkaXVzOiAyMHB4Ow==",
+                            "TitleStyle": "dGV4dC1hbGlnbjogbGVmdDsgZm9udC1zaXplOiA0MHB4OyBmb250LXdlaWdodDogNTAwOw==",
+                            "TextboxStyle": "YmFja2dyb3VuZC1jb2xvcjogd2hpdGU7IGNvbG9yOiBibGFjazsgYm9yZGVyOiBzb2xpZCAxcHggI2FhYWFhYQ==",
+                            "ContainerWidth": "665",
+                            "DefaultInstrument": "EUR-USD",
+                            "HighlightColor": "#ffff00",
+                            "IsDisplayTitle": true,
+                            "IsShowChartLinks": true,
+                            "IsShowEmbedButton": true,
+                            "CompactType": "large",
+                            "Calculator": "position-size-calculator",
+                            "ContainerId": "position-size-calculator-685828"
+                        });
+                    </script>
                 </div>
             </div>
         </div>
     </section>
     <!-- FAQ -->
-    <div id="position-size-calculator-685828">
-        <script type="text/javascript" src="https://www.cashbackforex.com/Content/remote/remote-widgets.js"></script>
-        <script type="text/javascript">
-            RemoteCalc({
-                "Url": "https://www.cashbackforex.com",
-                "TopPaneStyle": "YmFja2dyb3VuZDogbGluZWFyLWdyYWRpZW50KCMxYmExYzQgMjAlLCAjNDliOWFkIDQ1JSk7IGJvcmRlcjogc29saWQgMHB4OyBib3JkZXItYm90dG9tOiBub25lOyBjb2xvcjogd2hpdGU7",
-                "BottomPaneStyle": "YmFja2dyb3VuZDogd2hpdGU7IGJvcmRlcjogc29saWQgMXB4ICM3YTdhN2E7IGJvcmRlci10b3A6IG5vbmU7IGNvbG9yOiBibGFjazs=",
-                "ButtonStyle": "YmFja2dyb3VuZDogIzFiYTFjNDsgY29sb3I6IHdoaXRlOyBib3JkZXItcmFkaXVzOiAyMHB4Ow==",
-                "TitleStyle": "dGV4dC1hbGlnbjogbGVmdDsgZm9udC1zaXplOiA0MHB4OyBmb250LXdlaWdodDogNTAwOw==",
-                "TextboxStyle": "YmFja2dyb3VuZC1jb2xvcjogd2hpdGU7IGNvbG9yOiBibGFjazsgYm9yZGVyOiBzb2xpZCAxcHggI2FhYWFhYQ==",
-                "ContainerWidth": "665",
-                "DefaultInstrument": "EUR-USD",
-                "HighlightColor": "#ffff00",
-                "IsDisplayTitle": true,
-                "IsShowChartLinks": true,
-                "IsShowEmbedButton": true,
-                "CompactType": "large",
-                "Calculator": "position-size-calculator",
-                "ContainerId": "position-size-calculator-685828"
-            });
-        </script>
-    </div>
+
     <!-- Main Content End -->
 </div>
 <?php
