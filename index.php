@@ -223,68 +223,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row h-100">
-                <div class="col-lg-4 col-md-12 text-end">
-                    <div class="d-flex align-items-center">
-                        <div class="iq-feature2 iq-mtb-20">
-                            <h4 class="mb-3"><a href="services-details.html"> It eliminates the middleman</a></h4>
-                            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </p>
-                        </div>
-                        <div class="ms-3">
-                            <img class="img-fluid" src="images/services/icon/01.png" alt="">
-                        </div>
-                    </div>
-                    <div class="d-flex align-items-center">
-                        <div class="iq-feature2 iq-mtb-20">
-                            <h4 class="mb-3"><a href="services-details.html"> Secure and Stable</a></h4>
-                            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </p>
-                        </div>
-                        <div class="ms-3">
-                            <img class="img-fluid" src="images/services/icon/02.png" alt="">
-                        </div>
-                    </div>
-                    <div class="d-flex align-items-center">
-                        <div class="iq-feature2 iq-mtb-20">
-                            <h4 class="mb-3"><a href="services-details.html"> Coin Exchange</a></h4>
-                            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </p>
-                        </div>
-                        <div class="ms-3">
-                            <img class="img-fluid" src="images/services/icon/03.png" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-12 align-self-center text-center">
-                    <img class="img-fluid" src="images/feature/features-img1.png" alt="">
-                </div>
-                <div class="col-lg-4 col-md-12">
-                    <div class="d-flex align-items-center">
-                        <div class="me-3">
-                            <img class="img-fluid" src="images/services/icon/04.png" alt="">
-                        </div>
-                        <div class="iq-feature2 iq-mtb-20">
-                            <h4 class="mb-3"><a href="services-details.html">Mobile Apps</a></h4>
-                            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </p>
-                        </div>
-                    </div>
-                    <div class="d-flex align-items-center">
-                        <div class="me-3">
-                            <img class="img-fluid" src="images/services/icon/05.png" alt="">
-                        </div>
-                        <div class="iq-feature2 iq-mtb-20">
-                            <h4 class="mb-3"><a href="services-details.html">24/7 Trading</a></h4>
-                            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </p>
-                        </div>
-                    </div>
-                    <div class="d-flex align-items-center">
-                        <div class="me-3">
-                            <img class="img-fluid" src="images/services/icon/06.png" alt="">
-                        </div>
-                        <div class="iq-feature2 iq-mtb-20">
-                            <h4 class="mb-3"><a href="services-details.html">Free Consulting</a></h4>
-                            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="particles text-center"><img class="img-fluid" src="images/particles.png" alt=""></div>
+                <img src="https://img.freepik.com/free-vector/finance-investment-money-grow-doodle-concept_107791-10802.jpg?w=1380&t=st=1659982157~exp=1659982757~hmac=8322000e7479880c2eab0a7ea2058480d2f9846a7b52f5118e818048e19763ee" class="img-fluid" />
             </div>
         </div>
     </section>
