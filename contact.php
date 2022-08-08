@@ -13,9 +13,8 @@ include "header.php";
         <div class="row">
             <div class="col-lg-8 offset-lg-2">
                 <div class="heading-title iq-mb-25">
-                    <h2 class="title text-uppercase text-white ">Contact Us 2</h2>
+                    <h2 class="title text-uppercase text-white ">Contact Us</h2>
                 </div>
-                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
         </div>
     </div>
@@ -58,7 +57,7 @@ include "header.php";
                 <div class="col-lg-7">
                     <h2 class="iq-mtb-25">Contact Form</h2>
                     <div id="formmessage">Success/Error Message Goes Here</div>
-                    <form class="form-horizontal" id="contactform" method="post" action="https://templates.iqonic.design/coinex/html/php/contact-form.php">
+                    <form class="form-horizontal" action="mail.php" id="contactform" method="post" action="https://templates.iqonic.design/coinex/html/php/contact-form.php">
                         <div class="contact-form">
                             <div class="section-field iq-mb-30">
                                 <input id="name" type="text" placeholder="Name*" name="name">
@@ -103,31 +102,7 @@ include "header.php";
         </div>
     </section>
     <!-- Contact Us -->
-    <!-- Clients -->
-    <div class="iq-our-clients particles-bg yellow-bg iq-ptb-40">
-        <canvas id="canvas"></canvas>
-        <div class="container ">
-            <div class="row ">
-                <div class="col-lg-12 col-md-12 ">
-                    <div class="owl-carousel" data-autoplay="true" data-loop="true" data-nav="false" data-dots="false" data-items="5" data-items-laptop="4" data-items-tab="3" data-items-mobile="2" data-items-mobile-sm="1" data-margin="30">
-                        <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/01.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/02.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/03.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/04.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/05.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/06.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/01.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/02.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/03.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/04.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/05.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/06.png" alt="#"></a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Clients -->
+
 
 </div>
 <!-- Main Content End -->
