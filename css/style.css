@@ -5578,3 +5578,7 @@ iframe {
   width: 100% !important;
   height: 70% !important;
 }
+
+.text-white {
+  color: #fff !important;
+}

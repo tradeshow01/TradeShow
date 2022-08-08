@@ -308,12 +308,7 @@ include "header.php";
                     <div>
                         <h2 class="title text-white iq-mb-25">Recent Market</h2>
                     </div>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                        been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                        galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy
-                        text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
-                        dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                        it to make a type specimen book.</p>
+                    <p>Stock trading involves buying and selling shares in companies in an effort to make money on daily changes in price. Traders watch the short-term price fluctuations of these stocks closely and then try to buy low and sell high.</p>
                     <a class="button" href="javascript:void(0)">
                         <span class="button-inner-box">
                             <span class="icon-one icon">
