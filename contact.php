@@ -27,36 +27,12 @@ include "header.php";
         <div class="container">
             <div class="row iq-ptb-60">
                 <div class="col-lg-5">
-                    <h2 class="iq-mtb-25">Contact Info</h2>
-                    <div class="contact-box iq-mb-30 d-flex align-items-center">
-                        <i aria-hidden="true" class="ion-ios-location-outline iq-icon"></i>
-                        <div class="ms-3">
-                            <h5 class="iq-title text-uppercase mb-3  iq-font-yellow">Address</h5>
-                            <p>1234 North Avenue Luke Lane, South Bend,
-                                <br> IN 360001
-                            </p>
-                        </div>
-
-                    </div>
-                    <div class="contact-box iq-mb-30 d-flex align-items-center">
-                        <i aria-hidden="true" class="ion-ios-telephone-outline iq-icon"></i>
-                        <div class="ms-3">
-                            <h5 class="iq-title text-uppercase mb-3  iq-font-yellow">Phone</h5>
-                            <p>+0123 456 789 <span>(Mon-Fri 8:00am - 8:00pm)</span> </p>
-                        </div>
-
-                    </div>
-                    <div class="contact-box iq-mb-30 d-flex align-items-center">
-                        <i aria-hidden="true" class="ion-ios-email-outline iq-icon"></i>
-                        <div class="ms-3">
-                            <h5 class="iq-title text-uppercase mb-3  iq-font-yellow">Mail</h5>
-                            <p>mail@appino.com <span>(Mon-Fri 8:00am - 8:00pm)</span></p>
-                        </div>
-                    </div>
+                    <h2 class="iq-mtb-25 contactcolor">Contact Info</h2>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235527.4544718161!2d75.72376235588722!3d22.723911730259125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fcad1b410ddb%3A0x96ec4da356240f4!2sIndore%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1659962288391!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <div class="col-lg-7">
-                    <h2 class="iq-mtb-25">Contact Form</h2>
-                    <div id="formmessage">Success/Error Message Goes Here</div>
+                    <h2 class="iq-mtb-25 contactcolor">Contact Form</h2>
+                    <div id="formmessage contactcolor">Success/Error Message Goes Here</div>
                     <form class="form-horizontal" action="mail.php" id="contactform" method="post" action="https://templates.iqonic.design/coinex/html/php/contact-form.php">
                         <div class="contact-form">
                             <div class="section-field iq-mb-30">
@@ -91,15 +67,7 @@ include "header.php";
                 </div>
             </div>
         </div>
-        <div>
-            <div class="row no-gutters">
-                <div class="col-sm-12">
-                    <div class="iq-map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.840108181602!2d144.95373631539215!3d-37.8172139797516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1497005461921" allowfullscreen=""></iframe>
-                    </div>
-                </div>
-            </div>
-        </div>
+       
     </section>
     <!-- Contact Us -->
 
