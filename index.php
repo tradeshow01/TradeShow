@@ -406,12 +406,6 @@ include "header.php";
                         <span class="coin-04 animateme" data-when="span" data-from="0.9" data-to="0.1" data-translatex="0" data-translatey="-300" data-rotatez="180">
                             <img src="images/coin/04.png" class="img-fluid" alt="#">
                         </span>
-                        <span class="coin-05 animateme" data-when="span" data-from="0.9" data-to="0.1" data-translatex="0" data-translatey="-100" data-rotatez="180">
-                            <img src="images/coin/05.png" class="img-fluid" alt="#">
-                        </span>
-                        <span class="coin-06 animateme" data-when="span" data-from="0.9" data-to="0.1" data-translatex="0" data-translatey="-100" data-rotatez="180">
-                            <img src="images/coin/06.png" class="img-fluid" alt="#">
-                        </span>
                     </div>
                 </div>
             </div>
