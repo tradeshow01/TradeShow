@@ -9,7 +9,7 @@ include("header.php");
         <div class="row">
             <div class="col-lg-8 offset-lg-2">
                 <div class="heading-title iq-mb-25">
-                    <h2 class="title text-uppercase text-white ">Services</h2>
+                    <h2 class="title text-uppercase text-black ">Services</h2>
                 </div>
             </div>
         </div>
