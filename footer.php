@@ -174,6 +174,9 @@ Register -->
 </div>
 <!-- back-to-top End -->
 <!-- style-customizer -->
+
+<!-- style-customizer END -->
+<!-- jquery-min JavaScript -->
 <script src="js/jquery-min.js"></script>
 <!-- popper JavaScript -->
 <script src="js/popper.min.js"></script>
@@ -183,94 +186,26 @@ Register -->
 <script src="js/widget.js"></script>
 <!-- carousel JavaScript -->
 <script src="js/owl.carousel.min.js"></script>
+<!-- apex chart JavaScript -->
+<script src="js/apexcharts.min.js"></script>
 <!-- All-plugins JavaScript -->
 <script src="js/all-plugins.js"></script>
 <!-- particles JavaScript -->
 <script src="js/particles.js"></script>
 <!-- Style Customizer -->
 <script src="js/style-customizer.js"></script>
-<!-- REVOLUTION JS FILES -->
-<script src="revslider/js/jquery.themepunch.tools.min.js"></script>
-<script src="revslider/js/jquery.themepunch.revolution.min.js"></script>
-<!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-<script src="revslider/js/extensions/revolution.extension.actions.min.js"></script>
-<script src="revslider/js/extensions/revolution.extension.carousel.min.js"></script>
-<script src="revslider/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="revslider/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="revslider/js/extensions/revolution.extension.migration.min.js"></script>
-<script src="revslider/js/extensions/revolution.extension.navigation.min.js"></script>
-<script src="revslider/js/extensions/revolution.extension.parallax.min.js"></script>
-<script src="revslider/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="revslider/js/extensions/revolution.extension.video.min.js"></script>
+
 <!-- Custom JavaScript -->
+
+<!-- <script src="swiper/swiper.css"></script> -->
 <script src="js/custom.js"></script>
-<script>
-    var revapi4,
-        tpj = jQuery;
-    tpj(document).ready(function() {
-        if (tpj("#rev_slider_4_1").revolution == undefined) {
-            revslider_showDoubleJqueryError("#rev_slider_4_1");
-        } else {
-            revapi4 = tpj("#rev_slider_4_1").show().revolution({
-                sliderType: "standard",
-                sliderLayout: "fullwidth",
-                dottedOverlay: "none",
-                delay: 9000,
-                navigation: {
-                    keyboardNavigation: "off",
-                    keyboard_direction: "horizontal",
-                    mouseScrollNavigation: "off",
-                    mouseScrollReverse: "default",
-                    onHoverStop: "off",
-                    arrows: {
-                        style: "zeus",
-                        enable: true,
-                        hide_onmobile: false,
-                        hide_onleave: false,
-                        tmp: '<div class="tp-title-wrap">    <div class="tp-arr-imgholder"></div> </div>',
-                        left: {
-                            h_align: "left",
-                            v_align: "center",
-                            h_offset: 20,
-                            v_offset: 0
-                        },
-                        right: {
-                            h_align: "right",
-                            v_align: "center",
-                            h_offset: 20,
-                            v_offset: 0
-                        }
-                    }
-                },
-                visibilityLevels: [1240, 1024, 778, 480],
-                gridwidth: 1170,
-                gridheight: 790,
-                lazyType: "none",
-                shadow: 0,
-                spinner: "spinner0",
-                stopLoop: "off",
-                stopAfterLoops: -1,
-                stopAtSlide: -1,
-                shuffle: "off",
-                autoHeight: "off",
-                disableProgressBar: "on",
-                hideThumbsOnMobile: "off",
-                hideSliderAtLimit: 0,
-                hideCaptionAtLimit: 0,
-                hideAllCaptionAtLilmit: 0,
-                debugMode: false,
-                fallbacks: {
-                    simplifyAll: "off",
-                    nextSlideOnWindowFocus: "off",
-                    disableFocusListener: false,
-                }
-            });
-        }
-    }); /*ready*/
-</script>
+
+<!-- Gsap animation -->
+<!-- Initialize Swiper -->
+<script src="swiper/swiper.js"></script>
+
 </body>
 
 
-<!-- Mirrored from templates.iqonic.design/coinex/html/dark/home-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Jul 2022 17:58:48 GMT -->
 
 </html>
