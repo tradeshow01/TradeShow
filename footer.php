@@ -28,7 +28,7 @@
                             <li><a href="about-us.html"><i class="fa fa-caret-right" aria-hidden="true"></i>About Us</a></li>
                             <li><a href="services-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Testimonial</a></li>
                             <li><a href="faqs-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Payment</a></li>
-                            <li><a href="team-1.html"><i class="fa fa-caret-right" aria-hidden="true"></i>Contact Us</a></li>
+                            <li><a href="team-1.html"><i class="icon-chevron-right"></i>Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
