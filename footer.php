@@ -17,9 +17,7 @@ Footer -->
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-1 col-md-6 col-sm-12 iq-mtb-90">
-
-                </div>
+              
                 <div class="col-lg-2 col-md-offset-3 col-md-6 col-sm-12 iq-contact iq-mtb-90 footer-menu-list">
                     <h5 class="small-title text-white widget-title">Services</h5>
                     <div class="d-flex align-items-center text-white flex-wrap">
@@ -46,7 +44,7 @@ Footer -->
 
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 text-white iq-contact iq-mtb-90">
+                <div class="col-lg-5 col-md-6 col-sm-12 text-white iq-contact iq-mtb-90">
                     <h5 class="small-title widget-title">Modal</h5>
  <img src="tradinggif.gif" class="img-fluid" />
                 </div>
