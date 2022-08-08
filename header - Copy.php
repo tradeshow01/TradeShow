@@ -52,7 +52,7 @@
                         </div>
                         <nav> <a id="resp-menu" class="responsive-menu" href="javascript:void(0)"><i class="fa fa-reorder"></i> Menu</a>
                             <ul class="menu text-end">
-                                <li><a class="active" href="index.php">HOME</a>
+                                <li><a class="active" href="index.php">HOMs</a>
                                 </li>
                                 <li><a href="about.php">About Us</a>
                                     <ul class="sub-menu">
