@@ -634,7 +634,7 @@ include "header.php";
                 </div>
                 <div class="col-lg-6 col-md-12 counter-blog">
                     <div class=" text-white">
-                        <h2 class="title iq-mb-25 text-white">Best Service, Right Time, Right People</h2>
+                        <h3 class="title iq-mb-25 text-white">Best Service, Right Time, Right People</h3>
                         <p>Here is 3 Easy Steps to Busy &amp; Sell Bitcoin. Lorem Ipsum has been the industry's
                             standard dummy text ever since the 1500s, when an unknown.</p>
                     </div>
