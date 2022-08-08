@@ -36,7 +36,7 @@ include "header.php";
                     <p> TradeVinder mainly focuses on consistency in earning more and more profits. We give our greatest to satisfy our customers by giving accurate calls and helping in risk management and are available all the time for our customers. We are sort of a translator who translates the technical language of the market for our clients.</p>
                 </div>
                 <div class="col-lg-6 col-md-12">
-                    <img class="img-fluid mx-auto d-block iq-mt-10" src="images/device/01.png" alt="icon1">
+                    <img class="img-fluid mx-auto d-block iq-mt-10" src="https://img.freepik.com/free-vector/buy-sell-trend-forex-trading-background_1017-31712.jpg?w=740&t=st=1659958528~exp=1659959128~hmac=2026d2be3075154e15c95b4cab7e03d5b74d83539936068fb88d248ea804f56b" alt="icon1">
                 </div>
                 <div class="col-lg-6 col-md-12 about-box  align-self-center">
                     <blockquote class="iq-mt-20 dark-bg iq-pall-30 font-italic">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</blockquote>
