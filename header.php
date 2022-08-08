@@ -2,7 +2,7 @@
     <!-- loading -->
     <div id="loading">
         <div id="loading-center">
-            <img src="logo3.png" alt="loder">
+            <img src="loader.gif" alt="loder">
         </div>
     </div>
     <!-- loading End -->
