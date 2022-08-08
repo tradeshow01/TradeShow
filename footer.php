@@ -181,28 +181,7 @@ Register -->
 </div>
 <!-- back-to-top End -->
 <!-- style-customizer -->
-<div class="iq-customizer closed">
-    <div class="buy-button"> <a class="opener" href="javascript:void(0)"><i class="fa fa-spinner fa-spin"></i></a>
-    </div>
-    <div class="clearfix content-chooser">
-        <h3 class="iq-font-yellow">Tradeshoww Awesome Color</h3>
-        <p>This color combo available inside whole template. You can change on your wish, Even you can create your
-            own with limitless possibilities! </p>
-        <ul class="iq-colorChange clearfix">
-            <li class="color-1 selected" data-style="color-1"></li>
-            <li class="color-2" data-style="color-2"></li>
-            <li class="color-3" data-style="color-3"></li>
-            <li class="color-4" data-style="color-4"></li>
-            <li class="color-5" data-style="color-5"></li>
-            <li class="color-6" data-style="color-6"></li>
-            <li class="color-7" data-style="color-7"></li>
-            <li class="color-8" data-style="color-8"></li>
-            <li class="color-9" data-style="color-9"></li>
-            <li class="color-10" data-style="color-10"></li>
-        </ul>
-        <a target="_blank" class="button" href="javascript:void(0)">Purchase Now</a>
-    </div>
-</div>
+
 <!-- style-customizer END -->
 <!-- jquery-min JavaScript -->
 <script src="js/jquery-min.js"></script>
