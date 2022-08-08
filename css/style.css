@@ -5517,9 +5517,7 @@ footer.iq-footer-2 .newsletter-form .input-group .form-control {
   }
 }
 
-.tp-bgimg.defaultimg {
-  opacity: 0.4 !important;
-}
+
 
 .iq-market-data {
   padding: 15px 0px;
@@ -5545,34 +5543,38 @@ footer.iq-footer-2 .newsletter-form .input-group .form-control {
   width: 25% !important;
 }
 
-.titlewhite{
-  color: #fff!important;
+.titlewhite {
+  color: #fff !important;
 }
+
 .iq-breadcrumb h2 {
   color: #fff !important;
 }
 
 
 .iq-mb-25 {
-  color: #000!important;
-}
-.iq-feature2  h4{
-    color: #000 !important;
+  color: #000 !important;
 }
 
-.overview-block-ptb a{
+.iq-feature2 h4 {
+  color: #000 !important;
+}
+
+.overview-block-ptb a {
   font-size: 26;
-  
-}
-.bestservices{
-  color: #fff!important;
-  font-weight: 700!important;
+
 }
 
-.contactcolor{
-    color: #000 !important;
+.bestservices {
+  color: #fff !important;
+  font-weight: 700 !important;
 }
-iframe{
-  width:100%!important;
-  height: 70%!important;
+
+.contactcolor {
+  color: #000 !important;
+}
+
+iframe {
+  width: 100% !important;
+  height: 70% !important;
 }
