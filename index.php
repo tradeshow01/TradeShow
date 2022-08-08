@@ -623,8 +623,7 @@ include "header.php";
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-12">
-                    <h2 class="text-white">Bitcoin is the <span class="iq-font-yellow">best choice</span> for you
-                        if:</h2>
+                    <h2 class="text-white">Trading<span class="iq-font-yellow">change your </span> life:</h2>
                     <ul class="listing-hand iq-mt-30 text-white">
                         <li class="iq-mt-20">Simply dummy text of the Lorem Ipsum is printing and type setting.</li>
                         <li class="iq-mt-20">Dummy text of the printing and typesetting industry.</li>
@@ -636,7 +635,7 @@ include "header.php";
                 </div>
                 <div class="col-lg-6 col-md-12 counter-blog">
                     <div class=" text-white">
-                        <h3 class="title iq-mb-25 text-white">We're Fulfilled</h3>
+                        <h2 class="title iq-mb-25 text-white">Best Service, Right Time, Right People</h2>
                         <p>Here is 3 Easy Steps to Busy &amp; Sell Bitcoin. Lorem Ipsum has been the industry's
                             standard dummy text ever since the 1500s, when an unknown.</p>
                     </div>
