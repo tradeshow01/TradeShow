@@ -9,7 +9,7 @@ include("header.php");
         <div class="row">
             <div class="col-lg-8 offset-lg-2">
                 <div class="heading-title iq-mb-25">
-                    <h2 class="title text-uppercase cc ">Forex Trading</h2>
+                    <h2 class="title text-uppercase cc ">Index Trading</h2>
                 </div>
             </div>
         </div>
@@ -31,31 +31,28 @@ include("header.php");
             <div class="row">
                 <div class="col-sm-12 col-md-6 col-lg-4 iq-mt-30">
                     <div class=" mt-4  text-center p-4 dark-bg ">
-                        <div class="icon mb-2"><img class="img-fluid" src="https://cdn3d.iconscout.com/3d/premium/thumb/dollar-coin-4521244-3754857.png" alt="">
-                        </div>
+                        <img src="images/services/icon/01.png" alt="icon1" class="img-fluid mb-4">
                         <div class="fancy-content">
                             <h4 class="mb-3"><a href="services-details.html">MetaTrader</a></h4>
-                            <p>Maximize your potential with straightforward pricing choices to suit your trading style.</p><br>
+                            <p>rade over 500 markets including equities, indices, FX and commodities on the new and improved MT5</p><br>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-4 iq-mt-30">
                     <div class=" mt-4 dark-bg text-center p-4">
-                        <div class="icon mb-2"><img class="img-fluid" src="https://cdn3d.iconscout.com/3d/premium/thumb/dollar-coin-4521244-3754857.png" alt="">
-                        </div>
+                        <img src="images/services/icon/02.png" alt="icon1" class="img-fluid mb-4">
                         <div class="fancy-content">
                             <h4 class="mb-3"><a href="services-details.html">Active Trader</a></h4>
-                            <p>Earn rebates and one-on-one professional support when you qualify for our Active Trader program.</p>
+                            <p>Earn rebates and one-on-one professional support when you qualify for our Active Trader program.</p><br>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-4 iq-mt-30">
                     <div class=" mt-4 dark-bg text-center p-4">
-                        <div class="icon mb-2"><img class="img-fluid" src="https://cdn3d.iconscout.com/3d/premium/thumb/dollar-coin-4521244-3754857.png" alt="">
-                        </div>
+                        <img src="images/services/icon/03.png" alt="icon1" class="img-fluid mb-4">
                         <div class="fancy-content">
-                            <h4 class="mb-3"><a href="services-details.html">Coin Exchange</a></h4>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry, when an unknown printer took a galley ipsum.</p>
+                            <h4 class="mb-3"><a href="services-details.html">Competitive Pricing</a></h4>
+                            <p>Maximize your potential with straightforward pricing choices to suit your trading style</p><br><br>
                         </div>
                     </div>
                 </div>
@@ -70,16 +67,16 @@ include("header.php");
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <img class="img-fluid" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-stock-market-concept_23-2149166595.jpg?w=1060&t=st=1660065259~exp=1660065859~hmac=44adeafaa2473647115b62fe1d217761a9fb43eeb2317ec1fca19e45295b94da" alt="icon1">
+                    <img class="img-fluid" src="https://img.freepik.com/free-photo/stock-exchange-trading-forex-finance-graphic-concept_53876-120323.jpg?w=1060&t=st=1660066456~exp=1660067056~hmac=2759eb30ed45b86a9e0459d3fb2eef58b307e7da1d97b704c457b8114277d173" alt="icon1">
                 </div>
                 <div class="col-sm-6">
-                    <h2 class="text-black">Forex Trading<br>
+                    <h2 class="text-black">Index Trading<br>
                     </h2>
-                    <p class="iq-mt-25">In Forex market currencies are exchanged for one another .Forex market is largest financial market in world We provide daily recommendations about trading in FOREX.
+                    <p class="iq-mt-25">In this market we deal with various commodities. This includes metals, energy etc. We have our specialization in Gold, Silver and Crude oil.
 
                     </p>
-                    <p class="iq-mt-25">We provide signals in all the major and minor currency pairs thus making sure that we can cater to all our clients. These signals are personalized and come directly from the desk of our researchers after carefully examining the market, So we can provide the best analysis.</p>
-                    <p class="iq-mt-25">We have different packages which are designed to suit traders from every walk of trading phase and also can be tailored according to the specific requirement so that traders can get profitable forex signals with us every time.</p>
+                    <p class="iq-mt-25">Trading in the Index market differs from trading in forex market and thus by providing personal assistance to traders we help them by resolving all their queries and helping them in learning and at the same time earning with us..</p>
+                    <p class="iq-mt-25">This our Index plans are designed keeping in mind so the characteristics of clients who are having priorities of trading either as their passive income or as a part time work.</p>
                     <a class="button iq-mt-30" href="javascript:void(0)"><span class="button-inner-box">
                             <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
                                     <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>

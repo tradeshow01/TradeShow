@@ -33,7 +33,6 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-white iq-contact iq-mtb-90">
-                    <h5 class="small-title widget-title">Modal</h5>
                     <img src="tradinggif.gif" class="img-fluid" />
                 </div>
             </div>
@@ -289,6 +288,5 @@ Register -->
 </body>
 
 
-<!-- Mirrored from templates.iqonic.design/coinex/html/dark/home-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Jul 2022 17:58:48 GMT -->
 
 </html>

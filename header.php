@@ -62,7 +62,7 @@
                                     <ul class="sub-menu">
                                         <li><a href="forex.php">Forex Trading</a></li>
                                         <li><a href="Comex.php">Comex Trading</a></li>
-                                        <li><a href="Index.php">Index Trading</a></li>
+                                        <li><a href="indx.php">Index Trading</a></li>
                                         <li><a href="Crypto.php">Crypto Trading</a></li>
                                     </ul>
                                 </li>
