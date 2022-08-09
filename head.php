@@ -35,7 +35,7 @@
     <!-- gsap -->
     <!-- <script src="js/gsap.js"></script> -->
     <script src="gsap/gsap.min.js"></script>
-    <script src="//code.tidio.co/64mvp8vb0uqsug0nd3sfb6xvqt6fr9eq.js" async></script>
+    <!-- <script src="//code.tidio.co/64mvp8vb0uqsug0nd3sfb6xvqt6fr9eq.js" async></script> -->
     <!-- gsap -->
     <!-- swiper  -->
     <script src="swiper/swiper.min.js"></script>
