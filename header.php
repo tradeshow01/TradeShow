@@ -50,7 +50,7 @@
                         <div class="logo">
                             <a href="index.php"><img id="logo_img" class="img-fluid" src="logo3.png" alt="logo"></a>
                         </div>
-                        <nav> <a id="resp-menu" class="responsive-menu" href="javascript:void(0)"><i class="fa fa-reorder"></i> Menu</a>
+                        <nav> <a id="resp-menu" class="responsive-menu" href="javascript:void(0)"> Menu</a>
                             <ul class="menu text-end">
                                 <li><a class="active" href="index.php">HOME</a>
                                 </li>

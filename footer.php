@@ -13,11 +13,10 @@
                     <h5 class="small-title text-white widget-title">Services</h5>
                     <div class="d-flex align-items-center text-white flex-wrap">
                         <ul class="iq-pl-0 ">
-                            <li><a href="about-us.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Forex Trading</a></li>
-                            <li><a href="services-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Comex Trading</a></li>
-                            <li><a href="faqs-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Index Trading</a></li>
-                            <li><a href="team-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Team Trading</a></li>
-                            <li><a href="contact-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Crypto Trading</a></li>
+                            <li><a href="forex.php">Forex Trading</a></li>
+                            <li><a href="Comex.php">Comex Trading</a></li>
+                            <li><a href="indx.php">Index Trading</a></li>
+                            <li><a href="Crypto.php">Crypto Trading</a></li>
                         </ul>
                     </div>
                 </div>
