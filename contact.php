@@ -28,38 +28,32 @@ include "header.php";
             <div class="row iq-ptb-60">
                 <div class="col-lg-6">
                     <h2 class="iq-mtb-25 contactcolor">Contact Info</h2>
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235527.4544718161!2d75.72376235588722!3d22.723911730259125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fcad1b410ddb%3A0x96ec4da356240f4!2sIndore%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1659962288391!5m2!1sen!2sin"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26370883.089492414!2d-113.7087315523955!3d36.21271711914428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited%20States!5e0!3m2!1sen!2sin!4v1660319093915!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <div class="col-lg-6">
                     <h2 class="iq-mtb-25 contactcolor">Contact Form</h2>
                     <div id="formmessage contactcolor">Success/Error Message Goes Here</div>
-                    <form class="form-horizontal" action="mail.php" id="contactform" method="post" action="https://templates.iqonic.design/coinex/html/php/contact-form.php">
+                    <form class="form-horizontal" action="mail.php" method="post">
                         <div class="contact-form">
                             <div class="section-field iq-mb-30">
-                                <input id="name" type="text" placeholder="Name*" name="name">
+                                <input id="name" type="text" placeholder="Name*" required name="name">
                             </div>
                             <div class="section-field iq-mb-30">
-                                <input id="email" type="text" placeholder="Email*" name="email">
+                                <input id="email" type="email" placeholder="Email*" required name="email">
                             </div>
                             <div class="section-field iq-mb-30">
-                                <input id="phone" type="text" placeholder="Phone*" name="phone">
+                                <input id="phone" type="tel" maxlength="10" placeholder="Phone*" name="phone" required>
                             </div>
                             <div class="section-field iq-mb-30">
-                                <textarea class="input-message" placeholder="Comment*" name="message"></textarea>
+                                <textarea class="input-message" placeholder="Comment*" name="message" required></textarea>
                                 <input type="hidden" name="action" value="sendEmail" />
-                                <a class="button iq-mt-30 rounded  pull-right" href="javascript:void(0)">
+                                <button type="submit" class="button iq-mt-30 rounded  pull-right" href="javascript:void(0)">
                                     <span class="button-inner-box">
-                                        <span class="icon-one icon">
-                                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                            </svg></span>
+
                                         <span class="text-btn">Send Message</span>
-                                        <span class="icon-two icon">
-                                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                            </svg></span>
+
                                     </span>
-                                </a>
+                                </button>
                             </div>
                         </div>
                     </form>
@@ -67,7 +61,7 @@ include "header.php";
                 </div>
             </div>
         </div>
-       
+
     </section>
     <!-- Contact Us -->
 

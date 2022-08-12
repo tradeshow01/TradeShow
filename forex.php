@@ -91,9 +91,11 @@ include("header.php");
                         </span></a>
                 </div>
             </div>
+            <p>It refers to Foreign Exchange Market. This is the market which is completely decentralized and where currencies are traded. FOREX is also known as FX is global market which allows us to trade two currencies against each other. Foreign Exchange market is the largest financial market in the world.</p>
         </div>
     </section>
-    <!-- About Us -->
+
+
     <!-- Counter -->
 
     <!-- Counter -->

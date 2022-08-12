@@ -1,5 +1,11 @@
 <?php
 
+
+$name = $_POST['name'];
+$email = $_POST['email'];
+$number = $_POST['phone'];
+$message = $_POST['message'];
+
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
@@ -13,23 +19,29 @@ $phpmailer = new PHPMailer(true);
 try {
     //Server settings
     $phpmailer->isSMTP();
-    $phpmailer->Host = 'smtp.mailtrap.io';
+    $phpmailer->Host = 'smtp.gmail.com';
     $phpmailer->SMTPAuth = true;
-    $phpmailer->Port = 2525;
-    $phpmailer->Username = '678669ad0bc4c0';
-    $phpmailer->Password = 'd9066a4d430170';
+    $phpmailer->Port = 587;
+    $phpmailer->Username = 'ttradeshow@gmail.com';
+    $phpmailer->Password = 'tyxtoapjgwxotnjq';
     //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //Recipients
-    $phpmailer->setFrom('noreply@tradeshow.com', 'Website');
-    $phpmailer->addAddress('joe@example.net', 'Joe User');     //Add a recipient
+    $phpmailer->addAddress('ttradeshow@gmail.com', 'Website');
+    // $phpmailer->addAddress('joe@example.net', 'Joe User');
     //Content
     $phpmailer->isHTML(true);                                  //Set email format to HTML
-    $phpmailer->Subject = 'Here is the subject';
-    $phpmailer->Body    = 'This is the HTML message body <b>in bold!</b>';
+    $phpmailer->Subject = 'TradeShow Contact Form';
+    $Body = '';
+    $Body .= 'Name:' . $name;
+    $Body  .= '<br>Email:' . $email;
+    $Body  .= '<br>Mobile:' . $number;
+    $Body  .= '<br>Message:' . $message;
+    $phpmailer->Body = $Body;
+
 
     $phpmailer->send();
-    echo 'Message has been sent';
+    header('Location:contact.php');
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$phpmailer->ErrorInfo}";
 }

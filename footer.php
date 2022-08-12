@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-12 iq-mtb-90">
                     <div class="logo">
-                        <img id="logo_img_2" class="img-fluid" src="images/logo-white.png" alt="# ">
+                        <img id="logo_img_2" class="img-fluid" src="logo3.png" alt="# ">
                         <div class="text-white iq-mt-25 ">With Tradeshoww, you can buy, sell, trade, and earn
                             cryptocurrencies and manage your Transaction most efficiently and securely.</div>
                     </div>
@@ -15,8 +15,8 @@
                         <ul class="iq-pl-0 ">
                             <li><a href="forex.php">Forex Trading</a></li>
                             <li><a href="Comex.php">Comex Trading</a></li>
-                            <li><a href="indx.php">Index Trading</a></li>
-                            <li><a href="Crypto.php">Crypto Trading</a></li>
+                            <li><a href="indx.php">Indices Trading</a></li>
+                            <li><a href="crypto.php">Crypto Trading</a></li>
                         </ul>
                     </div>
                 </div>
@@ -24,10 +24,9 @@
                     <h5 class="small-title text-white widget-title">Important Links</h5>
                     <div class="d-flex align-items-center text-white flex-wrap">
                         <ul class="iq-pl-0 ">
-                            <li><a href="about-us.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>About Us</a></li>
-                            <li><a href="services-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Testimonial</a></li>
-                            <li><a href="faqs-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Payment</a></li>
-                            <li><a href="team-1.html"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Contact Us</a></li>
+                            <li><a href="about.php"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>About Us</a></li>
+                            <li><a href="testimonials.php"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Testimonial</a></li>
+                            <li><a href="contact.php"><i aria-hidden="true" class="me-3 ion-checkmark-round"></i>Contact Us</a></li>
                         </ul>
                     </div>
                 </div>

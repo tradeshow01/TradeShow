@@ -40,13 +40,10 @@ include "header.php";
                             <img class="client-img img-fluid mb-4" src="images/clients/gray/01.png" alt="">
                             <div class="media-body">
                                 <h4 class="mt-0  mb-3">Nik Jorden</h4>
-                                <p> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p>Good afternoon Dan. My name is Justin and I want to begin a career as a day trader trading the forex. I have spent the past 3-4 months paper trading with the Nasdaq and returning about 13% monthly. I really enjoyed your site and I want to thank you for making it.</p>
                             </div>
                         </div>
-                        <ul class="list-inline">
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-phone iq-font-yellow me-2"></i>0 123 456 789</a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-envelope-o iq-font-yellow me-2"> </i>support@keeshan.com</a></li>
-                        </ul>
+
                     </div>
                 </div>
                 <div class="col-sm-6">
@@ -55,13 +52,11 @@ include "header.php";
                             <img class="client-img  img-fluid mb-4" src="images/clients/gray/02.png" alt="">
                             <div class="media-body">
                                 <h4 class="mt-0 mb-3 ">JD Scot</h4>
-                                <p> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p> Thank you for a wonderful website with a lot of info.
+                                    I love the demo program for trading currencies..</p><BR><BR>
                             </div>
                         </div>
-                        <ul class="list-inline">
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-phone iq-font-yellow me-2"></i>0 123 456 789</a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-envelope-o iq-font-yellow me-2"> </i>support@keeshan.com</a></li>
-                        </ul>
+
                     </div>
                 </div>
                 <div class="col-sm-6">
@@ -70,13 +65,11 @@ include "header.php";
                             <img class="client-img  img-fluid mb-4" src="images/clients/gray/03.png" alt="">
                             <div class="media-body">
                                 <h4 class="mt-0 mb-3">Rinks Cooper</h4>
-                                <p> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p>I will be trading Forex. By the way, thanks for the site, it has been really
+                                    great at explaining a few things that have been a bit confusing on other sites </p>
                             </div>
                         </div>
-                        <ul class="list-inline">
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-phone iq-font-yellow me-2"></i>0 123 456 789</a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-envelope-o iq-font-yellow me-2"> </i>support@keeshan.com</a></li>
-                        </ul>
+
                     </div>
                 </div>
                 <div class="col-sm-6">
@@ -85,45 +78,13 @@ include "header.php";
                             <img class="client-img  img-fluid mb-4" src="images/clients/gray/04.png" alt="">
                             <div class="media-body">
                                 <h4 class="mt-0 mb-3">Meetoss</h4>
-                                <p> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p>I have been really impressed with your tutorial, and I thank you for that. I am a beginner and looking a successful path on day trading.</p>
                             </div>
                         </div>
-                        <ul class="list-inline">
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-phone iq-font-yellow me-2"></i>0 123 456 789</a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-envelope-o iq-font-yellow me-2"> </i>support@keeshan.com</a></li>
-                        </ul>
+
                     </div>
                 </div>
-                <div class="col-sm-6">
-                    <div class="iq-clients-blog iq-mtb-15">
-                        <div class="d-flex align-items-center flex-wrap iq-pall-20">
-                            <img class="client-img  img-fluid mb-4" src="images/clients/gray/05.png" alt="">
-                            <div class="media-body">
-                                <h4 class="mt-0 mb-3">Haris Morgan</h4>
-                                <p> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                            </div>
-                        </div>
-                        <ul class="list-inline">
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-phone iq-font-yellow me-2"></i>0 123 456 789</a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-envelope-o iq-font-yellow me-2"> </i>support@keeshan.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                    <div class="iq-clients-blog iq-mtb-15">
-                        <div class="d-flex align-items-center flex-wrap iq-pall-20">
-                            <img class="client-img  img-fluid mb-4" src="images/clients/gray/06.png" alt="">
-                            <div class="media-body">
-                                <h4 class="mt-0 mb-3 ">Keeshan</h4>
-                                <p> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                            </div>
-                        </div>
-                        <ul class="list-inline">
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-phone iq-font-yellow me-2"></i>0 123 456 789</a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-envelope-o iq-font-yellow me-2"> </i>support@keeshan.com</a></li>
-                        </ul>
-                    </div>
-                </div>
+
             </div>
         </div>
     </section>

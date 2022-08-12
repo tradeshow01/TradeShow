@@ -97,7 +97,7 @@ include "header.php";
                             <div class="step">1</div>
                             <div class="icon mb-2"><img class="img-fluid" src="https://cdn3d.iconscout.com/3d/premium/thumb/dollar-coin-4521244-3754857.png" alt="">
                             </div>
-                            <h4 class="mt-4 mb-3"><a href="javascript:void(0)">Forex Trading</a></h4>
+                            <h4 class="mt-4 mb-3"><a href="javascript:void(0)">Forex </a></h4>
                             <p>In Forex market currencies are exchanged for one another .Forex market is largest financial market in world We provide daily recommendations about trading in FOREX.</p>
                             <a href="javascript:void(0)">Read More <i aria-hidden="true" class="ion-ios-arrow-forward"></i></a>
                         </div>
@@ -110,7 +110,7 @@ include "header.php";
                             <div class="step">2</div>
                             <div class="icon mb-2"><img class="img-fluid" src="https://cdn3d.iconscout.com/3d/premium/thumb/dollar-coin-4521244-3754857.png" alt="">
                             </div>
-                            <h4 class="mt-4 mb-3"><a href="javascript:void(0)">Comex Trading</a></h4>
+                            <h4 class="mt-4 mb-3"><a href="javascript:void(0)">Comex </a></h4>
                             <p>In this market we deal with various commodities. This includes metals, energy etc. We have our specialization in Gold, Silver and Crude oil.
 
                             </p> <a href="javascript:void(0)">Read More <i aria-hidden="true" class="ion-ios-arrow-forward"></i></a>
@@ -124,7 +124,7 @@ include "header.php";
                             <div class="step">3</div>
                             <div class="icon mb-2"><img class="img-fluid" src="https://cdn3d.iconscout.com/3d/premium/thumb/dollar-coin-4521244-3754857.png" alt="">
                             </div>
-                            <h4 class="mt-4 mb-3"><a href="javascript:void(0)">Index Trading</a></h4>
+                            <h4 class="mt-4 mb-3"><a href="javascript:void(0)">Index </a></h4>
                             <p>In this segment of our we have focused on need of customer. Here customer can get services modified according to this profile, risk appetite and capacity.
 
                             </p> <a href="javascript:void(0)">Read More <i aria-hidden="true" class="ion-ios-arrow-forward"></i></a>
@@ -169,31 +169,7 @@ include "header.php";
                     </ul>
 
                 </div>
-                <div class="col-xl-4 col-lg-6 col-md-12 iq-about1 iq-mb-80">
-                    <div class="calculator dark-bg iq-pall-30">
-                        <h3 class="iq-font-yellow mb-4">Bitcoin</h3>
-                        <h5 class="mb-3">To Currency Calculator</h5>
-                        <p>Lorem Idivsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-                            has been the industry's standard dummy text ever since the 1500s.</p>
-                        <script src="../../../../www.cryptonator.com/ui/js/widget/calc_widget.js"></script>
-                        <a class="button " href="javascript:void(0)">
-                            <span class="button-inner-box">
-                                <span class="icon-one icon">
-                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                        <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
-                                        </path>
-                                    </svg></span>
-                                <span class="text-btn">Buy Now</span>
-                                <span class="icon-two icon">
-                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                        <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
-                                        </path>
-                                    </svg></span>
-                            </span>
-                        </a>
-                    </div>
 
-                </div>
             </div>
         </div>
     </section>
@@ -288,20 +264,18 @@ include "header.php";
                             </svg>
 
                             <small class="text text-uppercase fw-bold iq-font-yellow">
-                                Why Choose</small>
+                                Services</small>
                         </div>
-                        <h2 class="title  mb-2">Why Choose Us</h2>
-                        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an
-                            unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <h2 class="title  mb-2 text-black">Services Provide</h2>
+
                     </div>
                     <div class="iq-feature3 iq-mt-60">
                         <div class="iq-icon yellow-bg">
                             01
                         </div>
                         <div class="fancy-content">
-                            <h4 class=" mb-3">No Central Authority</h4>
-                            <p>Lorem ipsum madolor sit, consectetur adipisicing elit, eiusmod tempor sicing elit,
-                                eiusmod tempor.</p>
+                            <h4 class=" mb-3 text-black">FOREX</h4>
+
                         </div>
                     </div>
                     <div class="iq-feature3 iq-mtb-40">
@@ -309,14 +283,31 @@ include "header.php";
                             02
                         </div>
                         <div class="fancy-content">
-                            <h4 class=" mb-3">Completely Decentralized</h4>
-                            <p>Lorem ipsum madolor sit, consectetur adipisicing elit, eiusmod tempor sicing elit,
-                                eiusmod tempor.</p>
+                            <h4 class=" mb-3 text-black">COMEX</h4>
+
+                        </div>
+                    </div>
+                    <div class="iq-feature3 iq-mtb-40">
+                        <div class="iq-icon yellow-bg">
+                            03
+                        </div>
+                        <div class="fancy-content">
+                            <h4 class=" mb-3 text-black">CRYPTO</h4>
+
+                        </div>
+                    </div>
+                    <div class="iq-feature3 iq-mtb-40">
+                        <div class="iq-icon yellow-bg">
+                            04
+                        </div>
+                        <div class="fancy-content">
+                            <h4 class=" mb-3 text-black">INDICES</h4>
+
                         </div>
                     </div>
 
                 </div>
-                <div class="col-lg-6 col-md-12 iq-bg">
+                <div class=" col-lg-6 col-md-12 iq-bg">
                     <img src="https://img.freepik.com/free-vector/business-share-market-growth-green-arrow-background_1017-37130.jpg?w=1060&t=st=1659980717~exp=1659981317~hmac=36182d6e49a54bb3e82d8c462f34eed13cfb93595ee9e66d26ba68c5072b328b" class="img-fluid" alt="#">
                     <div class="iq-coin scrollme">
                         <span class="coin-01 animateme" data-when="span" data-from="0.9" data-to="0.1" data-translatex="0" data-translatey="-200" data-rotatez="180">
@@ -345,7 +336,7 @@ include "header.php";
                     <img src="images/need-help.png" alt="">
                     <h2 class="iq-font-yellow iq-mt-25">Any Query? Contact Us</h2>
                     <ul class="list-inline iq-mt-60 mb-4">
-                        <li class="list-inline-item text-white ms-3"><i class="fa fa-envelope-open me-2" aria-hidden="true"></i>ttradeshow@gmail.com
+                        <li class="list-inline-item text-white ms-3">Mail - ttradeshow@gmail.com
                         </li>
                     </ul>
                 </div>
@@ -358,11 +349,11 @@ include "header.php";
             <div class="row">
                 <div class="col-sm-12">
                     <div class="heading-title">
-                        <h2 class="title  iq-mb-20">Bitcoin Pricing</h2>
+                        <h2 class="title  iq-mb-20 text-black">Tradeshow Pricing</h2>
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class=" row">
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="position-relative">
                         <div class="pricing ">

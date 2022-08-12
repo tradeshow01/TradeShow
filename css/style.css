@@ -5586,3 +5586,7 @@ iframe {
 .text-black {
   color: #000 !important;
 }
+
+.iq-customizer a.opener {
+  display: none !important;
+}
