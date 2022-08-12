@@ -60,10 +60,10 @@
                                 </li>
                                 <li><a href="javascript:void(0)">Services</a>
                                     <ul class="sub-menu">
-                                        <li><a href="forex.php">Forex Trading</a></li>
-                                        <li><a href="comex.php">Comex Trading</a></li>
-                                        <li><a href="indx.php">Indices Trading</a></li>
-                                        <li><a href="crypto.php">Crypto Trading</a></li>
+                                        <li><a href="forex.php">Forex </a></li>
+                                        <li><a href="comex.php">Comex </a></li>
+                                        <li><a href="indx.php">Indices </a></li>
+                                        <li><a href="crypto.php">Crypto </a></li>
                                     </ul>
                                 </li>
 
