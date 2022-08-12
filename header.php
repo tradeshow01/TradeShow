@@ -71,7 +71,7 @@
                                 </li>
 
 
-                                <li><a href="testimonials.php">testimonials</a>
+                                <li><a href="testimonials.php">Testimonials</a>
                                 </li>
 
                                 <li class="d-lg-block d-none">

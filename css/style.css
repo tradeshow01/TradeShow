@@ -5590,3 +5590,7 @@ iframe {
 .iq-customizer a.opener {
   display: none !important;
 }
+
+p {
+  color: #191616 !important;
+}
