@@ -187,17 +187,18 @@ include "header.php";
                             About Us</small>
                     </div>
                     <h2 class="">Everything <br>
-                        <span class="iq-font-yellow">You Need To Know!</span>
+                        <span class="iq-font-yellow">FOREX TRADING EDUCATION</span>
                     </h2>
-                    <p class="text-white iq-mt-25">Tradeshoww Services is best at research and having a dedicated workforce adding value to Client’s portfolio. </p>
+                    <p class="text-white iq-mt-25">The Right Way</p>
                     <ul class="listing-hand text-white">
-                        <li class="iq-mt-20">Customized support as per the need of client.</li>
-                        <li class="iq-mt-20">Tradeshoww is dedicated towards client satisfaction and client retention.
+                        <li class="iq-mt-20">Developing a  trading Strategy .</li>
+                        <li class="iq-mt-20">Choosing the Right Broker .
                             .</li>
-                        <li class="iq-mt-20">Our aim to build a relationship with our clients and serve them for 365 days.
-
+                        <li class="iq-mt-20">Getting a Trading Mentor
                         </li>
-                        <li class="iq-mt-20">To be an organization with more than 10000 Clients.
+                        <li class="iq-mt-20">Building a Foundation
+                        </li>
+                          <li class="iq-mt-20">How to get into Day Trading
                         </li>
 
                     </ul>
