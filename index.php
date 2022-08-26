@@ -191,14 +191,13 @@ include "header.php";
                     </h2>
                     <p class="text-white iq-mt-25">The Right Way</p>
                     <ul class="listing-hand text-white">
-                        <li class="iq-mt-20">Developing a  trading Strategy .</li>
-                        <li class="iq-mt-20">Choosing the Right Broker .
+                        <li class="iq-mt-20">Customized support as per the need of client.</li>
+                        <li class="iq-mt-20">Tradeshoww is dedicated towards client satisfaction and client retention.
                             .</li>
-                        <li class="iq-mt-20">Getting a Trading Mentor
+                        <li class="iq-mt-20">Our aim to build a relationship with our clients and serve them for 365 days.
+
                         </li>
-                        <li class="iq-mt-20">Building a Foundation
-                        </li>
-                          <li class="iq-mt-20">How to get into Day Trading
+                        <li class="iq-mt-20">To be an organization with more than 10000 Clients.
                         </li>
 
                     </ul>
