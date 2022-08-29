@@ -73,22 +73,12 @@ include("header.php");
                     <img class="img-fluid" src="https://img.freepik.com/free-photo/stock-exchange-trading-forex-finance-graphic-concept_53876-120323.jpg?w=1060&t=st=1660066456~exp=1660067056~hmac=2759eb30ed45b86a9e0459d3fb2eef58b307e7da1d97b704c457b8114277d173" alt="icon1">
                 </div>
                 <div class="col-sm-6">
-                    <h2 class="text-black">COMEX Trading<br>
+                    <h2 class="text-black">How to spot a forex scam?<br>
                     </h2>
-                    <p class="iq-mt-25">In this market we deal with various commodities. This includes metals, energy etc. We have our specialization in Gold, Silver and Crude oil.
+                    <p class="iq-mt-25">One of the first things you must learn about the forex market is that although it is enjoyable and exciting, there is no magic button that will instantly turn your pennies into millions of dollars.
 
                     </p>
-                    <p class="iq-mt-25">Trading in the comex market differs from trading in forex market and thus by providing personal assistance to traders we help them by resolving all their queries and helping them in learning and at the same time earning with us..</p>
-                    <p class="iq-mt-25">This our comex plans are designed keeping in mind so the characteristics of clients who are having priorities of trading either as their passive income or as a part time work.</p>
-                    <a class="button iq-mt-30" href="javascript:void(0)"><span class="button-inner-box">
-                            <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                </svg></span>
-                            <span class="text-btn">Read More</span>
-                            <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                </svg></span>
-                        </span></a>
+                    
                 </div>
             </div>
         </div>
