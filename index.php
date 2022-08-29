@@ -340,14 +340,9 @@ include "header.php";
                             Market</small>
                     </div>
                     <div>
-                        <h2 class="title text-white iq-mb-25">Recent Market</h2>
+                        <h2 class="title text-white iq-mb-25">Stay informed with market trends</h2>
                     </div>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                        been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                        galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy
-                        text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
-                        dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                        it to make a type specimen book.</p>
+                    <p>Tune in to the daily live streams to watch our experienced market analysts discuss the Forex market. Watch them at what they do best, analyse the financial markets with them and ask any questions throughout!</p>
                     <a class="button" href="javascript:void(0)">
                         <span class="button-inner-box">
                             <span class="icon-one icon">
