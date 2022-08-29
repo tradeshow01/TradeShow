@@ -89,7 +89,8 @@ include("header.php");
                         </span></a>
                 </div>
             </div>
-            <p>How FX Trading works
+            <h4>How FX Trading works</h4>
+            <p>
 Trading forex involves the buying of one currency and simultaneous selling of another. In forex, traders attempt to profit by buying and selling currencies by actively speculating on the direction currencies are likely to take in the future.</p>
         </div>
     </section>
