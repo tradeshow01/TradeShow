@@ -73,13 +73,11 @@ include("header.php");
                     <img class="img-fluid" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-stock-market-concept_23-2149166595.jpg?w=1060&t=st=1660065259~exp=1660065859~hmac=44adeafaa2473647115b62fe1d217761a9fb43eeb2317ec1fca19e45295b94da" alt="icon1">
                 </div>
                 <div class="col-sm-6">
-                    <h2 class="text-black">Forex Trading<br>
+                    <h2 class="text-black">What is forex trading?<br>
                     </h2>
-                    <p class="iq-mt-25">In Forex market currencies are exchanged for one another .Forex market is largest financial market in world We provide daily recommendations about trading in FOREX.
+                    <p class="iq-mt-25">Forex, or foreign exchange, can be explained as a network of buyers and sellers, who transfer currency between each other at an agreed price. It is the means by which individuals, companies and central banks convert one currency into another – if you have ever travelled abroad, then it is likely you have made a forex transaction.
 
                     </p>
-                    <p class="iq-mt-25">We provide signals in all the major and minor currency pairs thus making sure that we can cater to all our clients. These signals are personalized and come directly from the desk of our researchers after carefully examining the market, So we can provide the best analysis.</p>
-                    <p class="iq-mt-25">We have different packages which are designed to suit traders from every walk of trading phase and also can be tailored according to the specific requirement so that traders can get profitable forex signals with us every time.</p>
                     <a class="button iq-mt-30" href="javascript:void(0)"><span class="button-inner-box">
                             <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
                                     <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>

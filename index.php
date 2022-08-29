@@ -15,8 +15,8 @@ include "header.php";
             </div>
             <div class=" banner-header">
                 <div class="iq-mb-20">
-                    <h2 class="d-flex" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".7"><br><br>Financial Applications !</h2>
-                    <h2 class="banner-title d-flex" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".7">Forex-Comex-Index Trading </h2>
+                    <h2 class="d-flex" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".7"><br><br>Join the leading trading room !</h2>
+                    <h2 class="banner-title d-flex" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".7"></h2>
                 </div>
                 <small data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay=".8" class="banner-dec my-5 iq-mt-20">.</small>
                 <div class="iq-mt-20 d-flex banner-button" data-iq-gsap="onStart" data-iq-position-x="0" data-iq-position-y="50" data-iq-duration="1" data-iq-delay="1.3">
