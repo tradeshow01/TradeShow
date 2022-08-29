@@ -260,8 +260,8 @@ include "header.php";
                 <div class="col-lg-4 col-md-12 text-end">
                     <div class="d-flex align-items-center">
                         <div class="iq-feature2 iq-mtb-20">
-                            <h4 class="mb-3"><a href="services-details.html"> It eliminates the middleman</a></h4>
-                            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </p>
+                            <h4 class="mb-3"><a href="services-details.html">WEEKLY EDUCATIONAL WEBINARS</a></h4>
+                            <p>Every week we will meet to summarize and review the trading week and learn what techniques were used, how and why, in our trading ideas that we've shared during the week. Every webinar is recorded and published for your convenience.</p>
                         </div>
                         <div class="ms-3">
                             <img class="img-fluid" src="images/services/icon/01.png" alt="">
@@ -269,8 +269,8 @@ include "header.php";
                     </div>
                     <div class="d-flex align-items-center">
                         <div class="iq-feature2 iq-mtb-20">
-                            <h4 class="mb-3"><a href="services-details.html"> Secure and Stable</a></h4>
-                            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </p>
+                            <h4 class="mb-3"><a href="services-details.html"> THE EDUCATION</a></h4>
+                            <p>If you are completely new to the forex market, we have everything you need to hit the ground running. Browse through thousands of educational trading videos, beginners’ guides, trading tools, ebooks and connect with our live support 24/7, and get full access to all of our trading products. </p>
                         </div>
                         <div class="ms-3">
                             <img class="img-fluid" src="images/services/icon/02.png" alt="">
