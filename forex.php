@@ -79,14 +79,7 @@ include("header.php");
 
                     </p>
                     <p class="iq-mt-25">While a lot of foreign exchange is done for practical purposes, the vast majority of currency conversion is undertaken with the aim of earning a profit. The amount of currency converted every day can make price movements of some currencies extremely volatile. It is this volatility that can make forex so attractive to traders: bringing about a greater chance of high profits, while also increasing the risk.</p>
-                    <a class="button iq-mt-30" href="javascript:void(0)"><span class="button-inner-box">
-                            <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                </svg></span>
-                            <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                </svg></span>
-                        </span></a>
+  
                 </div>
             </div>
             <h4>How FX Trading works</h4>
