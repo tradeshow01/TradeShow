@@ -261,7 +261,7 @@ include "header.php";
                     <div class="d-flex align-items-center">
                         <div class="iq-feature2 iq-mtb-20">
                             <h4 class="mb-3"><a href="services-details.html">WEEKLY EDUCATIONAL WEBINARS</a></h4>
-                            <p>Every week we will meet to summarize and review the trading week and learn what techniques were used, how and why, in our trading ideas that we've shared during the week. Every webinar is recorded and published for your convenience.</p>
+                            <p>Every week we will meet to summarize and review the trading week and learn what techniques were used, how and why, in our trading ideas that we've shared during the week. </p>
                         </div>
                         <div class="ms-3">
                             <img class="img-fluid" src="images/services/icon/01.png" alt="">
