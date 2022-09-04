@@ -58,12 +58,13 @@
                                     <ul class="sub-menu">
                                     </ul>
                                 </li>
-                                <li><a href="javascript:void(0)">Services</a>
+                                <li><a href="javascript:void(0)">Education</a>
                                     <ul class="sub-menu">
                                         <li><a href="forex.php">What is Forex </a></li>
                                         <li><a href="comex.php">How to spot a forex scam? </a></li>
-                                        <li><a href="indx.php">Indices </a></li>
-                                        <li><a href="crypto.php">Crypto </a></li>
+                                        <li><a href="indx.php">Forex Education </a></li>
+                                        <li><a href="crypto.php">How to use MT4
+                                            </a></li>
                                     </ul>
                                 </li>
 
@@ -74,7 +75,7 @@
                                 <li><a href="testimonials.php">Testimonials</a>
                                 </li>
 
-                               
+
                             </ul>
                         </nav>
                     </div>

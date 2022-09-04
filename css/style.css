@@ -615,7 +615,7 @@ ul.listing-hand li {
   list-style-type: none;
   padding-left: 40px;
   font-size: 16px;
-  line-height: 18px;
+  line-height: 30px;
   display: inline-block;
 }
 
@@ -5589,4 +5589,8 @@ iframe {
 
 .iq-customizer a.opener {
   display: none !important;
+}
+
+p {
+  font-size: 17px !important;
 }

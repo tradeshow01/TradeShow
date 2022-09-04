@@ -5,18 +5,18 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 iq-mtb-90">
                     <div class="logo">
                         <img id="logo_img_2" class="img-fluid" src="logo3.png" alt="# ">
-                        <div class="text-white iq-mt-25 ">With Tradeshoww, you can buy, sell, trade, and earn
-                            cryptocurrencies and manage your Transaction most efficiently and securely.</div>
+                        <div class="text-white iq-mt-25 ">The TradeShow is a renowned share market institute. Our academy started with a simple dream of imparting knowledge about Currency, Indexes, and Stock trading.</div>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-offset-3 col-md-6 col-sm-12 iq-contact iq-mtb-90 footer-menu-list">
                     <h5 class="small-title text-white widget-title">Services</h5>
                     <div class="d-flex align-items-center text-white flex-wrap">
                         <ul class="iq-pl-0 ">
-                            <li><a href="forex.php">Forex Trading</a></li>
-                            <li><a href="Comex.php">Comex Trading</a></li>
-                            <li><a href="indx.php">Indices Trading</a></li>
-                            <li><a href="crypto.php">Crypto Trading</a></li>
+                            <li><a href="forex.php">What is Forex </a></li>
+                            <li><a href="comex.php">How to spot a forex scam? </a></li>
+                            <li><a href="indx.php">Forex Education </a></li>
+                            <li><a href="crypto.php">How to use MT4
+                                </a></li>
                         </ul>
                     </div>
                 </div>

@@ -70,20 +70,19 @@ include("header.php");
                     <img class="img-fluid" src="https://img.freepik.com/free-vector/businessmen-invest-market-gain-success-from-investing_1150-63911.jpg?t=st=1660318405~exp=1660319005~hmac=e1e0c961f07c5ea1534d34824ebc7ff0e36719770b0425b6f8a49d7d96c17069" />
                 </div>
                 <div class="col-sm-6">
-                    <h2 class="text-black">INDICES Trading<br>
+                    <h2 class="text-black">What is forex?<br>
                     </h2>
-                    <p class="iq-mt-25">We generate signals based on technical analysis. While generating recommendations, technical charts are viewed on basis of long term, equilibrium price of the Indices. News and information play a significant role in Indices Pack and it is regularly viewed and considered.
+                    <p class="iq-mt-25">Foreign exchange markets, or Forex in short (many times abbreviated to just FX market), is the largest decentralised market for the foreign exchange trading of foreign currency pairs with an average daily trading volume of over $5 trillion.
+
+                        The Forex market is the most liquid financial market in the world, by far! But numbers speak louder than words. Well, in the Forex market anyway so let's compare it to some of the other biggest markets worldwide: Stock market, Futures market, Equities and Cryptocurrencies.
                     </p>
-                    <p class="iq-mt-25">TradeVinder is your one stop destination for all the services you can ever think in the field of Indices, Comex and Indices. we provide best indices plans. At Indices Plans we prioritize the value delivered to our clients and accordingly because we have designed our packages, keeping in mind the value and quality of our services with affordability for all. Our main focus is on the long term relationships with our clients by delivering consistent results over the period of time. </p>
-                    <a class="button iq-mt-30" href="javascript:void(0)"><span class="button-inner-box">
-                            <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                </svg></span>
-                            <span class="text-btn">Read More</span>
-                            <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
-                                </svg></span>
-                        </span></a>
+                    <br>
+                    <p>1)Average Daily Stocks traded on the New York Stock Exchange (NYSE)</p>
+                    <p>2)Average Daily Futures traded - 434.4 billion</p>
+                    <p>3)Average Daily Equities traded - 191.2 billion</p>
+                    <p>4)Average Daily Equities traded - 191.2 billion</p>
+                    <p>5)Average Daily Cryptocurrencies traded - 16.8 billion</p>
+
                 </div>
             </div>
         </div>

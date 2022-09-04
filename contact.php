@@ -27,8 +27,7 @@ include "header.php";
         <div class="container">
             <div class="row iq-ptb-60">
                 <div class="col-lg-6">
-                    <h2 class="iq-mtb-25 contactcolor">Contact Info</h2>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26370883.089492414!2d-113.7087315523955!3d36.21271711914428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited%20States!5e0!3m2!1sen!2sin!4v1660319093915!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <img src="https://img.freepik.com/premium-vector/man-background-forex-chart-conceptual-illustration-topic-strategic-planning-trading-stock-exchange_531064-9076.jpg?w=1060" class="img-fluid" />
                 </div>
                 <div class="col-lg-6">
                     <h2 class="iq-mtb-25 contactcolor">Contact Form</h2>

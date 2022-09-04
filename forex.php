@@ -24,45 +24,7 @@ include("header.php");
 <!--======= Breadcrumb Inner Page =======-->
 <!-- Main Content -->
 <div class="main-content">
-    <!-- Services -->
-    <section><br>
-        <div class="container">
 
-            <div class="row">
-                <div class="col-sm-12 col-md-6 col-lg-4 iq-mt-30">
-                    <div class=" mt-4  text-center p-4 dark-bg ">
-                        <div class="icon mb-2"><img class="img-fluid" src="https://cdn3d.iconscout.com/3d/premium/thumb/dollar-coin-4521244-3754857.png" alt="">
-                        </div>
-                        <div class="fancy-content">
-                            <h4 class="mb-3"><a href="services-details.html">MetaTrader</a></h4>
-                            <p>Maximize your potential with straightforward pricing choices to suit your trading style.</p><br>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-12 col-md-6 col-lg-4 iq-mt-30">
-                    <div class=" mt-4 dark-bg text-center p-4">
-                        <div class="icon mb-2"><img class="img-fluid" src="https://cdn3d.iconscout.com/3d/premium/thumb/dollar-coin-4521244-3754857.png" alt="">
-                        </div>
-                        <div class="fancy-content">
-                            <h4 class="mb-3"><a href="services-details.html">Active Trader</a></h4>
-                            <p>Earn rebates and one-on-one professional support when you qualify for our Active Trader program.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-12 col-md-6 col-lg-4 iq-mt-30">
-                    <div class=" mt-4 dark-bg text-center p-4">
-                        <div class="icon mb-2"><img class="img-fluid" src="https://cdn3d.iconscout.com/3d/premium/thumb/dollar-coin-4521244-3754857.png" alt="">
-                        </div>
-                        <div class="fancy-content">
-                            <h4 class="mb-3"><a href="services-details.html">Coin Exchange</a></h4>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry, when an unknown printer took a galley ipsum.</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
     <!-- Services -->
 
     <!-- About Us -->
@@ -79,12 +41,12 @@ include("header.php");
 
                     </p>
                     <p class="iq-mt-25">While a lot of foreign exchange is done for practical purposes, the vast majority of currency conversion is undertaken with the aim of earning a profit. The amount of currency converted every day can make price movements of some currencies extremely volatile. It is this volatility that can make forex so attractive to traders: bringing about a greater chance of high profits, while also increasing the risk.</p>
-  
+
                 </div>
             </div>
             <h4>How FX Trading works</h4>
             <p>
-Trading forex involves the buying of one currency and simultaneous selling of another. In forex, traders attempt to profit by buying and selling currencies by actively speculating on the direction currencies are likely to take in the future.</p>
+                Trading forex involves the buying of one currency and simultaneous selling of another. In forex, traders attempt to profit by buying and selling currencies by actively speculating on the direction currencies are likely to take in the future.</p>
         </div>
     </section>
 
